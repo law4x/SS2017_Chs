@@ -102,7 +102,6 @@ AdvancedOptions.ShowTimeTooltip=显示每个关卡开始后经过的时间。
 AdvancedOptions.ShowWeapon=显示武器
 AdvancedOptions.ShowWeaponTooltip=以第一人称模式显示武器。
 Ammo.AssaultRifleBullets=突击步枪弹药
-Ammo.AutoShotgunShells=Devastator Shells
 Ammo.AutoShotgunShells=毁灭者榴弹
 Ammo.Bullets=机枪子弹
 
@@ -121,15 +120,15 @@ Ammo.StickyBombs=C4 炸药
 AmmoPackItem.Name=弹药包
 AnubisKeyName=阿努比斯之匙
 ArmorItem.Name=盔甲
-AshesToAshes.Name=Ashes To Ashes
+AshesToAshes.Name=尘归尘
 AssaultRifleItem.Name=突击步枪
 Audio.DetectionFailed=音频设备检测失败。\n请检查您的声卡、驱动和设置。\n在问题得到解决前，此游戏音频将被禁用。\n您要继续吗？
 AutoShotgunItem.Name=毁灭者榴弹枪
 
 B111785B=Ughzan
-BabinBrk.Name=Babin Brk
-BarrelTrouble.Name=Barrel Trouble
-BearCity.Name=Bear City
+BabinBrk.Name=巴宾 布瑞克
+BarrelTrouble.Name=滚筒麻烦
+BearCity.Name=怒熊城
 BetaTesters.Angelo=安吉洛·吉尔斯 —— 2010年惨烈的娜尔大屠杀之罪人。
 BetaTesters.BoltX=伊格尔"BoltX"鲁斯蒂奇 —— 喜欢烧焦的Zumbuls的气味。
 BetaTesters.Chris=克里斯"A/C"韦伯 —— 煽动并恶意伤害一位娜尔族人。
@@ -162,10 +161,10 @@ BetaTesters.Warhead=保罗"war:head"波尼什 —— 看你大爷？！
 BetaTesters.Zeb=肯尼斯"Zeb89"卡塞利 —— 一流玩家
 BigTrouble.Name=Big Trouble
 
-BossName.ExotechLarva=ExotechLarva
-BossName.Kukulkan=Kukulkan
-BossName.Summoner=Summoner
-BossName.UghZan=Ugh-Zan III
+BossName.ExotechLarva=外装甲幼虫
+BossName.Kukulkan=库库尔坎
+BossName.Summoner=召唤师莫德凯
+BossName.UghZan=Ugh-Zan III世
 
 BrkeenChevap.Name=破碎的 Chevap
 BronzeMedalEarned=您已获得铜牌！
@@ -190,13 +189,12 @@ CPUMenu.MaxCorpses=最大尸体数量
 CPUMenu.MaxCorpsesCoop=最大尸体数量
 CPUMenu.MaxCorpsesCoopTooltip=合作模式最大尸体数。
 
-CPUMenu.MaxCorpsesHigh=High
-CPUMenu.MaxCorpsesLow=Low
-CPUMenu.MaxCorpsesLowest=Lowest
-CPUMenu.MaxCorpsesMedium=Medium
-CPUMenu.MaxCorpsesTooltip=Max count of corpses.
+CPUMenu.MaxCorpsesHigh=最多
+CPUMenu.MaxCorpsesLow=少
+CPUMenu.MaxCorpsesLowest=最少
+CPUMenu.MaxCorpsesMedium=中等
 CPUMenu.MaxCorpsesTooltip=最大尸体数量。
-CPUMenu.MaxCorpsesUltra=Ultra
+CPUMenu.MaxCorpsesUltra=最多
 
 CPUMenu.MaxDebris=最大尸体碎片残余
 CPUMenu.MaxDebrisCoop=合作模式最大碎片数量
@@ -483,7 +481,6 @@ DeathMessage.KleerPunch=%1被克里尔撕开。
 DeathMessage.Kukulkan=%1被库库尔坎-*吹走*-。
 DeathMessage.LavaGolem=%1被岩浆人消灭。
 DeathMessage.MarshHopper=%1吃了沼泽漏斗。
-DeathMessage.Missing=%1 is missing in action.
 DeathMessage.Missing=%1在行动中失踪。
 DeathMessage.OverTheEdge=%1跨过边界。
 DeathMessage.PassedAway=%1去世。
@@ -545,17 +542,17 @@ Episode.TFE=英雄萨姆HD: 首次遭遇
 Episode.TSE=英雄萨姆HD: 再次出击
 
 Error.ReconnectController=请重新连接控制器
-Fiaca.Name=Fiaca
+Fiaca.Name=菲亚卡
 
 FileSystemWin32.CannotDeleteDirectory=Cannot delete directory %1.
 FileSystemXenon.CannotCreateDir=无法创建目录路径%1
 FileSystemXenon.CannotRenameFile=无法重命名文件%1至%2
 FireToTryAgain=请按开火再试一次
 Flagrante.Name=Flagrante
-FlamerItem.Name=Flamer
+FlamerItem.Name=喷火枪
 Flood.Name=洪水泛滥
-FortWars.Name=Fort Wars
-Fortress.Name=Fortress
+FortWars.Name=据点战争
+Fortress.Name=要塞
 
 
 GPUMenu.AllowRefractions=开启折射
@@ -915,7 +912,7 @@ Graffiti.Hope=希望还在！
 
 Graffiti.HumanRace=人类从来没有完成任何事情。都是神命令他们做的。
 
-Graffiti.IfYoureReading=如果你正在读这句话，那说明你玩游戏的方式不正确。
+Graffiti.IfYoureReading=如果你正在读这句话，那说明你玩游戏的姿势不正确。
 
 Graffiti.Khunms=卡拉姆没有蛋蛋。
 
@@ -949,36 +946,35 @@ Grafitti.NoCover=没有掩护。所有人。
 
 Graphics.WrongDriver=显卡驱动版本太旧或无法被检测。\n按"好"更新驱动程序，按"取消"继续。
 Graphics.WrongVersionD3D=Wrong version of DirectX redistributable.\nPress OK to update DirectX, or Cancel to continue.
-GrenadeLauncherItem.Name=Grenade launcher
-Gvide.Name=Gvide
+GrenadeLauncherItem.Name=榴弹发射器
+Gvide.Name=葛威德
 HealthItem.Name=生命值
 
 Hint.ArachnoidBadass=80%的人认为蝎形人(Arachnoid)是最卑鄙的坏蛋，但即便是坏蛋也必须重新上弹。
 Hint.ArachnoidTailSting=蛛网怪的尾刺是一个强大的武器。任何时候都得离它远远的。
 
-Hint.AttachFan={plcmdUse} Attach Fan
-Hint.AttachFanNoCmd=Attach Fan
+Hint.AttachFan={plcmdUse} 装上风扇
+Hint.AttachFanNoCmd=装上风扇
 
 Hint.BioMechanoidNoise=伺服电机控制型生化机械人的移动声音非常响，这会让你觉察到它的存在。
 
 Hint.BiomechanoidBrain=生化机械人的大脑约占体重的78.3%，它的智力却和蟑螂一样。
-Hint.CantClimbLadderWithItem=Can't climb while carrying an item
+Hint.CantClimbLadderWithItem=拿着物品时不能攀登
 Hint.CaveDemonAnoying=95%的人说，曼德尔的追随者最讨人厌的是御夫座洞穴怪。
 Hint.ClonedSoldiersAim=与人们的看法相反，克隆战士目的并不明确，除非你的运动模式是坐以待毙！
 
-Hint.CmdFireTake={plcmdUse} Take %1
-Hint.CmdFireTakeNoCmd=Take %1
-Hint.CmdUseClimb=%1 Climb
-Hint.Connect={plcmdUse} Connect
-Hint.ConnectNoCmd=Connect
+Hint.CmdFireTake={plcmdUse} 拾取 %1
+Hint.CmdFireTakeNoCmd=拾取 %1
+Hint.CmdUseClimb=%1 攀登
+Hint.Connect={plcmdUse} 链接
+Hint.ConnectNoCmd=链接
 Hint.ConnectorTapFirst=Tap on a target
 Hint.ConnectorTapMore=Tap on another target
-Hint.DetachFan={plcmdUse} Detach Fan
-Hint.DetachFanNoCmd=Detach Fan
-Hint.DidYouKnow=Did you know?
+Hint.DetachFan={plcmdUse} 摘下风扇
+Hint.DetachFanNoCmd=摘下风扇
 Hint.DidYouKnow=您知道吗？
-Hint.Drop={plcmdUse} Drop
-Hint.DropNoCmd=Drop
+Hint.Drop={plcmdUse} 丢下
+Hint.DropNoCmd=丢下
 Hint.ExplosiveBarrels=最新消息：炸药桶爆炸了。
 Hint.ForgetToReload=73.2%的士兵说，他们有时在枪战停火期间会忘记重装他们的枪。其中，12.6%士兵因此死亡。
 Hint.FriendlyFire=曼德尔的大部队所受的攻击有47%来自友军的炮火，一个熟练的步兵能够用这种方式战胜他们。
@@ -992,8 +988,8 @@ Hint.HitToSmash=Hit To Smash
 Hint.HoldToAim=按住{plcmdAltFire}进行瞄准
 Hint.HoldToReset=按住 {plcmdHome} 重置
 Hint.HoldToResetTouchscreen=Hold to reset
-Hint.HoldToResetTutorial=You can hold {plcmdHome} to reset.
-Hint.HoldToResetVR=Hold button to reset
+Hint.HoldToResetTutorial=你可以按下{plcmdHome} 来重启.
+Hint.HoldToResetVR=按下来重启
 Hint.HoldToSkip=按住 {%1} 跳过
 Hint.HoldToSkipTouchscreen=按住跳过
 Hint.Jam={plcmdUse} Jam
@@ -1020,10 +1016,9 @@ Hint.KleerRipHeadOff=去年，超过10652名阵亡士兵企图通过抓住克里
 
 Hint.MinorBioMechanoidLaserBeams=幼年生化机械人的激光束消灭的曼德尔武装通常比地球防卫军士兵消灭的多。
 
-Hint.Netricsa=Press {plcmdDisplayNetricsa} to invoke Netricsa
 Hint.Netricsa=按{plcmdDisplayNetricsa}唤醒Netricsa
-Hint.PointFirst=Point at a target
-Hint.PointMore=Point at another target
+Hint.PointFirst=标注目标
+Hint.PointMore=标注另一个目标
 Hint.ProjectileAvoidance=当看到一颗流弹飞进他们的脸时，87.5%的人只会呆在那里，就像被车灯照到的鹿一样。
 
 Hint.ProjectileIntoFace=当看到一颗流弹飞进他们的脸时，87.5%的人只会呆在那里，就像被车灯照到的鹿一样。
@@ -1041,8 +1036,8 @@ Hint.SandwhaleWayToKill=已知消灭沙鲸的方式都需要使用某种核武�
 Hint.ScatteredSupplies=据估计，超过81%由地球防卫军供给的用品至今仍散落在战场周围，被阵亡的士兵所遗弃。
 Hint.ScrapjackBerserk=小心破烂男发狂时发射的火箭。
 Hint.ScrapjackPistolShootRockets=一个熟练的射手只使用一只手枪弹夹就可以应对一个破烂男火箭兵的攻击。
-Hint.Select={plcmdUse} Select
-Hint.SelectNoCmd=Select
+Hint.Select={plcmdUse} 选择
+Hint.SelectNoCmd=选择
 Hint.SkilledFootsoldier=曼德尔的大部队所受的攻击有47%来自友军的炮火，一个熟练的步兵能够用这种方式战胜他们。
 Hint.SoldierMovement=与人们的看法相反，克隆兵没有明确的目的。除非你的运动模式是坐以待毙！
 
@@ -1114,9 +1109,9 @@ HudElement.PickedItem.MaxLimit=满
 HudElement.TimeRemain.MinutesLeft=剩余分
 HudElement.TimeRemain.SecondsLeft=剩余秒
 HudElement.TimeRemain.TimeExpired=时间到
-Input.PS4.WirelessControllerDisconnected=Wireless Controller disconnected. Connect a Wireless Controller to continue.
+Input.PS4.WirelessControllerDisconnected=无线手柄已断线. 再插一个无线手柄已继续.
 JetPackItem.Name=喷气动力背包
-JumpOver.Name=Jump Over
+JumpOver.Name=跃过
 
 KbdMInput.ArrowDown=下箭头
 KbdMInput.ArrowLeft=左箭头
@@ -1196,40 +1191,40 @@ KbdMInput.Tilde=～
 KeyBunchName=钥匙串
 KeyCardName=电子锁
 
-KeyItem.AirElement=Air element
-KeyItem.BookOfWisdom=Book of wisdom
-KeyItem.Cobra=Cobra
-KeyItem.CrystalSkull=Crystal Skull
-KeyItem.EarthElement=Earth element
-KeyItem.EyeOfRa=Eye of Ra
-KeyItem.FeatherOfTruth=Feather of Truth
-KeyItem.FireElement=Fire element
-KeyItem.GoldAmonStatue=Gold Amon statue
-KeyItem.GoldAnkh=Gold ankh
-KeyItem.GoldCross=Gold cross
-KeyItem.GoldElephant=Gold elephant
-KeyItem.GoldHeart=Gold Heart
-KeyItem.GoldJagurar=Gold jaguar
-KeyItem.GoldSphinx=Gold Sphinx
-KeyItem.HawkWingsPart1=Hawk wings - part 1
-KeyItem.HawkWingsPart2=Hawk wings - part 2
-KeyItem.HilariouslyHappyMask=Hilariously happy mask
-KeyItem.HolyGrail=Holy grail
-KeyItem.IxChelMask=Ix Chel mask
-KeyItem.MoonKey=Moon key
-KeyItem.RaKey=Ra key
-KeyItem.Scarab=Scarab
-KeyItem.SeriouslyScaryMask=Seriously scary mask
-KeyItem.SilverCross=Silver cross
-KeyItem.StatueOfKingTilmun=Statue of King Tilmun
-KeyItem.StoneAnkh=Stone ankh
-KeyItem.TabletOfWisdom=Tablet of wisdom
-KeyItem.WaterElement=Water element
-KeyItem.WingedLion=Winged lion
-KeyItem.WoodenAnkh=Wooden ankh
-KeyItem.WoodenCross=Wooden cross
+KeyItem.AirElement=空气元素
+KeyItem.BookOfWisdom=智慧之书
+KeyItem.Cobra=蟒蛇
+KeyItem.CrystalSkull=水晶头骨
+KeyItem.EarthElement=大地元素
+KeyItem.EyeOfRa=拉神之眼
+KeyItem.FeatherOfTruth=真谕之羽
+KeyItem.FireElement=烈火元素
+KeyItem.GoldAmonStatue=金阿蒙神像
+KeyItem.GoldAnkh=金安卡
+KeyItem.GoldCross=金十字架
+KeyItem.GoldElephant=金象
+KeyItem.GoldHeart=金心
+KeyItem.GoldJagurar=金豹
+KeyItem.GoldSphinx=金狮身人面像
+KeyItem.HawkWingsPart1=鹰翼部分之一
+KeyItem.HawkWingsPart2=鹰翼部分至二
+KeyItem.HilariouslyHappyMask=狂喜之面
+KeyItem.HolyGrail=圣杯
+KeyItem.IxChelMask=Ix Chel 之面
+KeyItem.MoonKey=银月钥匙
+KeyItem.RaKey=拉神之匙
+KeyItem.Scarab=圣甲虫
+KeyItem.SeriouslyScaryMask=鬼泣之面
+KeyItem.SilverCross=银十字架
+KeyItem.StatueOfKingTilmun=迪蒙勒王像
+KeyItem.StoneAnkh=石安卡
+KeyItem.TabletOfWisdom=智慧石板
+KeyItem.WaterElement=明水元素
+KeyItem.WingedLion=翼狮
+KeyItem.WoodenAnkh=木安卡
+KeyItem.WoodenCross=木十字架
 LadderUseMessage={plcmdUse}使用梯子
-LaserItem.Name=Laser
+LaserItem.Name=激光枪
 
 Launcher.FileReadError=从文件中读取数据时发生错误！
 
@@ -1242,22 +1237,22 @@ Level.dayr.egypt=戴尔-巴里, 埃及, 公元前1378年
 Level.door.unlocked=门已解锁!
 Level.four.items=所有四个物品已收集!
 
-Level.gravity.off=Gravity OFF!
-Level.just.kidding=Just kidding! :-)
-Level.kleers.air=Bravo! You killed 6 Kleers in the air!
-Level.left.wing=Left Hawk Wing placed!
-Level.masks.placed=Both masks are placed on altar!
+Level.gravity.off=重力关闭!
+Level.just.kidding=逗你玩儿~ :-)
+Level.kleers.air=Hexa Kill! 你在空中杀了6个Kleer!
+Level.left.wing=左鹰翼已安装!
+Level.masks.placed=两个面具都放在祭坛上了!
 Level.mechanism.activated=解锁机构已开启!
-Level.netricsa.birds.coming=NETRICSA: Watch out for those birds coming from the mountains!
-Level.right.wing=Right Hawk Wing placed!
-Level.sacred.stone=Sacred stone touched!
+Level.netricsa.birds.coming=NETRICSA: 小心从山谷中来的鸟人！!
+Level.right.wing=右鹰翼已安装!
+Level.sacred.stone=圣石已触碰!
 Level.second.yard=第二大院的门已打开!
-Level.secret.launcher=Sam: 'Wow! A secret rocket launcher!!! Cool...'
+Level.secret.launcher=Sam: 'WOW！一个火箭发射器！酷...'
 Level.silent.pill.activated=静音步伐药丸已启动，敌人掉线中!
 Level.statues.destroyed=Boom! 所有雕像被摧毁了!
-Level.you.cleaned.yourself=You cleaned yourself!
-Level.you.passed.darkness=你通过了暗黑志强
-Level.you.picked.mask=You picked Hilariously Happy mask!
+Level.you.cleaned.yourself=你洗礼了自己!
+Level.you.passed.darkness=你通过了暗黑之墙
+Level.you.picked.mask=你捡到了狂喜之面!
 LevelMesagge.DoorLocked=门锁上了,去找钥匙。
 LevelMesagge.ExitDoorLocked=出口被锁住了，去找钥匙。
 LevelMesagge.ExitKeyFound=你找到了出口的钥匙。
@@ -1283,7 +1278,7 @@ LevelMesagge.FillCount.7=还需要 1 桶汽油
 
 LevelMesagge.FillCount.8=汽油补充完毕
 
-LevelMesagge.FillTheCar=Go fill the car!
+LevelMesagge.FillTheCar=快去加油!
 LevelMesagge.FirstSirianArtefact=找到第一个天狼星的工艺品，还剩 3 个。
 LevelMesagge.GasCanisterPiceked=已捡起汽油罐！
 LevelMesagge.HorusKeyFound=您已找到荷鲁斯神庙钥匙。
@@ -1309,12 +1304,12 @@ LittleTrouble.Name=小麻烦
 LivesLeft=剩余生命数：%1
 LogMessage.TimeLockFailed=此处无法使用时间机器。
 MSOptions.MixedRealityMissingVideoInput=No video input device detected!\nIn order to use mixed reality, video input device is required.\nIMPORTANT NOTE: We are aware of the problem with certain video capture cards when game is being run from the Steam folder. If you have a video capture card but still get this message, please try a workaround for this problem, by installing the game in Steam library on another drive and running the game from there.
-MSOptions.NoVRDevice=You don't have active VR device.
+MSOptions.NoVRDevice=你没有VR设备（留下穷人的泪水）.
 Medal.Bronze=铜牌
 Medal.Gold=金牌
 Medal.Silver=银牌
-MedievalRage.Name=Medieval Rage
-Medina.Name=麦地那
+MedievalRage.Name=中世纪狂怒
+Medina.Name=麦迪那
 MeleeMessage={plcmdUse}肉搏
 Menu.0%=0%
 Menu.0=0
@@ -2535,18 +2530,18 @@ Menu.unclassified=未分类
 
 Message.DamagedPlayerProfile=Unable to load player profile save data.\nPlayer profile appears to be damaged and is going to be overwritten during next settings save operation.
 Message.ErrorLoadingPlayerProfile=Unable to load player profile save data.
-Message.PlayerRespawned=%1再次操纵枪。
+Message.PlayerRespawned=%1起床再次抄家伙上。
 Message.SeekCounsel=Seek counsel
 Message.UnownedPlayerProfile=Unable to load player profile save data.\nPlayer profile save data belongs to another user.\nIt is going to be reset and overwritten.
 Message.UnrestrictedVersion=游戏现在已经可以加载模组。你可以游玩社区或创意工坊内容，但不记录战绩或排名。请注意社区或创意工坊内容为非官方支持，风险自负。
-Message.YouKilledPlayer=You killed %1.
-Message.YouKilledYourself=You killed yourself.
-Message.YouWereKilledByPlayer=You were killed by %1.
-Messages.Analyze=%1 to Analyze
+Message.YouKilledPlayer=你干掉了 %1.
+Message.YouKilledYourself=你干掉了你自己.
+Message.YouWereKilledByPlayer=你被 %1 干掉了.
+Messages.Analyze=%1 来分析
 Messages.Analyzing=正在分析…
 
 Messages.QuicksaveHint=提示: 你可以用 %1 快速存储游戏。
-Messages.Use=%1 to Use
+Messages.Use=%1 使用
 MiniGunItem.Name=转轮机枪
 Multiplayer.CableDisconnected=系统连接线可能断开。选择"好"返回主菜单。
 Multiplayer.ContentUnavailable=加入本游戏所需的内容当前不可用。
@@ -2574,10 +2569,10 @@ Netricsa.AutoShotgun.02.Drum=标准子弹含有高穿透力的重型爆炸(HPHE)
 Netricsa.AutoShotgun.Title=AS-24，又名"毁灭者"
 
 
-Netricsa.Axe.00.General=An ordinary chopping axe. Used as a tool or as a silent weapon.
-Netricsa.Axe.01.Handle=Grip here.
-Netricsa.Axe.02.Head=Slash flesh here. Preferably not yours.
-Netricsa.Axe.Title=Axe
+Netricsa.Axe.00.General=普通用于砍树的斧子. 用于破障或者作为消音武器.
+Netricsa.Axe.01.Handle=握紧这里.
+Netricsa.Axe.02.Head=用这里剁肉. 不要剁自己的肉.
+Netricsa.Axe.Title=斧头
 
 Netricsa.BiomechMajor.00.General=生化机械人在曼德尔的生物水槽中成长。它的基因组被重新编码以为它的生理生长提供机械零件。
 Netricsa.BiomechMajor.01.Gun=单独制造的火箭发射器连接到提前设计好的生物学侧插槽中，并直接接入它的神经系统。
@@ -2743,10 +2738,9 @@ Netricsa.Scrapjack.02.Stitches=他们的体格不是很强壮，所以可以轻�
 Netricsa.Scrapjack.03.Heads=根据情况不同，有三种头可供选择，它可以表现出不同的行为。从轻度攻击到猛烈攻击。
 Netricsa.Scrapjack.Title=Scrapjack Rocketeer
 Netricsa.Scrapjack.Title=碎片男火箭专家
-Netricsa.ScrapjackMonster.00.General=Raahloom was the first great prototype of Mental's Necromechanoid Project. He was created from sewn-together parts of massive beasts, for example, Highlander Reptiloids. Inheriting the resilience of these corpses, Raahloom is incredibly tough and most standard weapons can barely make a scratch on his body, save for high explosives.
-Netricsa.ScrapjackMonster.01.Launcher=One arm of Raahloom is a huge SBC Cannon, one of the original ones, now rarely used by Mental's forces. Even a single cannonball can tear a human to pieces.
-Netricsa.ScrapjackMonster.02.Hammer=Raahloom also carries an enormous warhammer, which he can use to pulverize any unlucky creature - be it friend or foe - that gets too close.
-
+Netricsa.ScrapjackMonster.00.General=拉赫鲁姆是Mental第一个大型原型项目，他被多种大型野兽的碎片缝合在一起，比如蜥蜴人高阶领主这样的。因此，普通武器对他来说就是挠痒痒，还是搬出爆炸武器才能造成有效伤害
+Netricsa.ScrapjackMonster.01.Launcher=拉赫鲁姆的一个胳膊被改造成一个SBC巨炮，这个巨炮目前还未广泛装备给Mental的军队，但是一发就能把你轰的渣都不剩。
+Netricsa.ScrapjackMonster.02.Hammer=拉赫鲁姆还携带一柄重装战锤，可以不分敌我全部碾成肉酱
 
 
 Netricsa.Shotgunner.00.General=人类士兵克隆体的控制修改版。被设定为一味的攻击指定目标。
@@ -2823,7 +2817,7 @@ Netricsa.Warship.Title=战舰，大熊座级
 Netricsa.Werebull.00.General=天狼星牛和地球牛的杂交种。所以天狼星变种牛的行为也很像一头普通的牛。
 Netricsa.Werebull.01.Horn=天狼星变种牛的尖角是非常危险的。向旁侧避让以避免其蓄气攻击。
 Netricsa.Werebull.02.Hoof=其蹄子声远远就可以听到。可作为早期预警。
-Netricsa.Werebull.Title=天狼星变种牛
+Netricsa.Werebull.Title=天狼星战牛
 
 
 Netricsa.WitchBride.00.General=曼德尔的奴隶章鱼人的虚假承诺误导了大议会的堕落女巫，亦即阴影的统治者。
@@ -2838,9 +2832,9 @@ NoLivesLeft=生命已用尽
 
 
 ObjectActionMessage.AutoTurretPickUp={plcmdUse}接载
-ObjectActionMessage.CantConvertItem=%1 cannot be converted
-ObjectActionMessage.ConversionTypes=Can convert between %1 and %2
-ObjectActionMessage.ConvertItem={plcmdUse} Convert %1 into %2
+ObjectActionMessage.CantConvertItem=%1 不能被转换
+ObjectActionMessage.ConversionTypes=可以在%1 与 %2 之间转换
+ObjectActionMessage.ConvertItem={plcmdUse} 转换 %1 至 %2
 ObjectActionMessage.DefenseTowerMaxLevel=最高等级
 ObjectActionMessage.DefenseTowerSell=以%1$卖出
 ObjectActionMessage.DefenseTowerUpgradeToLevel=升级至%1:$%2
@@ -2850,10 +2844,10 @@ ObjectActionMessage.TheDoorIsLocked=此门已上锁
 ObjectActionMessage.UseButtonToEnter=按{plcmdUse}进入
 ObjectActionMessage.UseButtonToFix=按{plcmdUse}修理
 ObjectActionMessage.UseButtonToTake=按{plcmdUse}获得
-Objectives.ObjectiveCompleted=Objective Completed
-Objectives.ObjectiveFailed=Objective Failed
-Objectives.ObjectiveStarted=Objective Started
-Objectives.ObjectiveUpdated=Objective Updated
+Objectives.ObjectiveCompleted=任务完成
+Objectives.ObjectiveFailed=任务失败
+Objectives.ObjectiveStarted=任务开始
+Objectives.ObjectiveUpdated=任务更新
 OneLiveLeft=剩余一条命！
 
 
@@ -3174,7 +3168,7 @@ PlayerModel.SilverSarah.Description=怒放吧，宝贝！
 
 PlayerModel.SilverSarah.Name=西尔维·萨拉
 
-PlayerModel.SkinlessStan.Description=All Muscle
+PlayerModel.SkinlessStan.Description=筋肉力量！
 PlayerModel.SkinlessStan.Name=Skinless Stan
 
 PlayerModel.Soldier.Description=曾经的萨姆原始模型设计
@@ -3182,7 +3176,7 @@ PlayerModel.Soldier.Description=曾经的萨姆原始模型设计
 
 PlayerModel.Soldier.Name=好汉哈利
 
-PlayerModel.Ughzan.Description= The Vicious Warlock
+PlayerModel.Ughzan.Description= 邪恶术士
 PlayerModel.Ughzan.Name=Ugh-Zan III
 
 PlayerModel.VegetableVaughn.Description=吃肉就是杀生
@@ -3223,11 +3217,11 @@ Poster.JoinKamikaze=追逐您的梦想！为荣誉而战！加入曼德尔的部
 Poster.JoinScrapJack=向他们展示你的能力！加入曼德尔的部队吧！
 
 Poster.SamWanted=通缉，无论生死：萨姆"Serious"斯通。奖励：1000000 FC
-PowerUpItem.FlagBlue=Blue Flag
-PowerUpItem.FlagRed=Red Flag
-PowerUpItem.Invisibility=Invisibility
-PowerUpItem.Invulnerability=Invulnerability
-PowerUpItem.PowerUp=Power Up
+PowerUpItem.FlagBlue=蓝旗
+PowerUpItem.FlagRed=红旗
+PowerUpItem.Invisibility=隐形
+PowerUpItem.Invulnerability=无敌
+PowerUpItem.PowerUp=奖励力量
 
 PowerUpItem.ScoreFeeding=得分积攒中
 PowerUpItem.SeriousDamage=Serious Damage
@@ -3264,18 +3258,17 @@ RadioChat.NameRodriguez=罗德里格斯
 RadioChat.Outgoing=呼叫%1中
 RespawnIn=%1内重生
 RocketLauncherItem.Name=火箭发射器
-RoyalPurgatory.Name=Royal Purgatory
-SV_BendOnSand.Name=Bend On Sand
+RoyalPurgatory.Name=皇家炼狱
+SV_BendOnSand.Name=与黄沙同行
 
 
 SV_Canyon.Name=死亡峡谷
-SV_DeathFromAbove.Name=Death From Above
-SV_DeepHole.Name=Deep Hole
-
+SV_DeathFromAbove.Name=死亡天降
+SV_DeepHole.Name=深穴
 SV_Deserted.Name=遗弃之地
-SV_GreenField.Name=Green Field
-SV_Icelander.Name=Icelander
-SV_KleerBase.Name=Kleer Base
+SV_GreenField.Name=绿野
+SV_Icelander.Name=冰岛人
+SV_KleerBase.Name=Kleer 的基地
 
 SV_MedinaDefender.Name=阿拉伯守护者
 
@@ -3359,15 +3352,15 @@ Secret.Vista=发现秘密通道！
 Secret.Yard=发现秘密院落！
 
 Secret.YardOfFame=发现秘密传说庭院！
-Secret.ammo.collected=Secret ammo has been collected!
+Secret.ammo.collected=秘密弹药已收集!
 
 Secret.ammo.depot.discovered=秘密弹药点已发现!
-Secret.ammo.depot.found=Secret ammo depot has been found!
-Secret.ammo.depot.unlocked=Secret ammo depot has been unlocked!
+Secret.ammo.depot.found=秘密弹药所已收集!
+Secret.ammo.depot.unlocked=秘密弹药所已解锁!
 Secret.ammo.found=秘密弹药已发现!
-Secret.ammo.pack.collected=Secret ammo pack has been collected!
+Secret.ammo.pack.collected=秘密弹药包已收集!
 Secret.ammo.pack.located=秘密弹药包已发现!
-Secret.ammo.revealed=Secret ammo has been revealed!
+Secret.ammo.revealed=秘密弹药以揭示!
 Secret.area.discovered=秘密区域已探索!
 Secret.armor.collected=秘密装甲以收集!
 
@@ -3375,23 +3368,23 @@ Secret.armor.collected=秘密装甲以收集!
 
 
 Secret.armor.found=秘密装甲已被发现!
-Secret.avenger.plant=Secret suicidal avenger plant has been discovered!
-Secret.avenger.snowman=Secret snowman avenger has been terminated!
+Secret.avenger.plant=秘密自杀植物复仇者已探索!
+Secret.avenger.snowman=秘密雪人复仇者已被终结！
 
 Secret.backstage=秘密里关卡已被打开!
-Secret.blood=Secret blood bath has been activated!
-Secret.booth=Secret phone booth has been discovered!
+Secret.blood=秘密血浴已被开启！
+Secret.booth=秘密电话亭已被探索!
 
 Secret.bouncer=秘密弹跳者已被揭秘!
-Secret.boxing.barry.enabled=Boxing Barry Secret enabled!
-Secret.boxing.barry.punched=Secret Boxing Barry has punched in the first round!
+Secret.boxing.barry.enabled=拳击手巴瑞的秘密已被解密!
+Secret.boxing.barry.punched=秘密拳击手巴瑞已经在第一回合出拳！
 
 Secret.brave=勇者的秘密已被发现!
-Secret.broken.teleport=Secret broken teleport has been found!
+Secret.broken.teleport=秘密的损坏传送器已被找到!
 
 Secret.cannon.ammo.revealed=秘密的炮弹球已被找到!
-Secret.cannon.found=Secret cannon has been found!
-Secret.cave.discovered=Secret cave has been discovered!
+Secret.cannon.found=秘密大炮已被找到!
+Secret.cave.discovered=秘密洞穴已被探索!
 
 Secret.cave.found=秘密山洞已被找到!
 
@@ -3400,33 +3393,33 @@ Secret.cave.opened=秘密山洞已被打开!
 Secret.cave.revealed=秘密山洞已被揭秘!
 
 Secret.corridor.discovered=秘密长廊已被探索!
-Secret.corridor.revealed=Secret corridor has been revealed!
-Secret.crate.bus=Secret crate bus has been discovered!
+Secret.corridor.revealed=秘密长廊已被揭示!
+Secret.crate.bus=秘密箱子巴士已被找到!
 
 Secret.crates=秘密箱子已被发现!
-Secret.crollywood=Secret Crollywood movie studio has been discovered!
+Secret.crollywood=秘密CrollyWood电影布景棚已被探索！
 
 Secret.depot.found=秘密点已被发现!
-Secret.detonator=Secret don't push detonator has been revealed!
+Secret.detonator=秘密的不要按引爆器已被揭示！
 
 Secret.discovered=秘密已被发现!
 
 Secret.door.opened=密门已被发现!
-Secret.door.unlocked=Secret door has been unlocked!
+Secret.door.unlocked=密门已被解锁!
 
 Secret.entrance.discovered=秘密入口已被发现!
 
 Secret.entrance.opened=秘密入口已被打开!
-Secret.explosion=Secret mega ultra explosion has been activated!
-Secret.festival.activated=Secret rocket festival has been activated!
-Secret.festival.found=Secret rocket festival gear has been found!
+Secret.explosion=秘密超绝大爆炸已被启动！
+Secret.festival.activated=秘密火箭狂欢节已被启动！
+Secret.festival.found=秘密火箭狂欢节设备已被找到
 
 Secret.geek.teleport=极客传送器已被启动!
 Secret.generous.yard=宽阔的院子已找到!
-Secret.glove=Secret K.O. glove has been found!
-Secret.graves=Secret graves have been found!
-Secret.hall=Secret Hall of fame has been discovered!
-Secret.heads.discovered=Secret yard of strange looking heads has been discovered!
+Secret.glove=秘密K.O拳击手套已被找到！
+Secret.graves=秘密坟墓已被找到！
+Secret.hall=秘密名人堂已被探索！
+Secret.heads.discovered=秘密“奇怪的头”主题院已被探索！
 Secret.health.activated=秘密血包已被启动!
 Secret.health.collected=秘密血包已被收集!
 Secret.health.enabled=秘密血包已被启动！
@@ -3435,51 +3428,51 @@ Secret.health.located=秘密血包已被定位!
 Secret.hole.discovered=秘密洞穴已被找到!
 
 
-Secret.horse=Secret horse power has been encountered!
-Secret.invulnerability.found=Secret invulnerability has been found!
-Secret.items.found=Secret items have been found!
+Secret.horse=秘密马力已遭遇！
+Secret.invulnerability.found=秘密无敌已被找到!
+Secret.items.found=秘密物品已被找到
 Secret.items.located=秘密物品已被定位!
 Secret.items.spawned=秘密物品已被召唤!
-Secret.jumping.plant=Secret jumping plant has been activated!
-Secret.launcher.collected=Secret rocket launcher has been collected!
+Secret.jumping.plant=秘密跳跳草已被找到！
+Secret.launcher.collected=秘密火箭发射器已被收集！
 Secret.mega.croteam=超·秘密已被找到! Croteam 成员被释放! 非常感谢!
 Secret.mega.fans=超·秘密已被发现! 粉丝已被释放! 
-Secret.mental.room=Secret Mental's room has been found!
-Secret.midgets=Secret deadly midgets have been activated!
-Secret.midnight.disabled=Midnight mega secret disabled!
-Secret.midnight.enabled=Midnight mega secret enabled!
-Secret.midnight.items=Secret midnight items have been found!
-Secret.mighty.gizmo=Secret MIGHTY GIZMO has been encountered!
-Secret.mighty.kamikaze=Secret mighty kamikaze has been activated!
-Secret.mutated.plant=Secret mutated plant and friends have been found!
+Secret.mental.room=秘密Mental的房间已被找到！
+Secret.midgets=秘密致命注入已被启动！
+Secret.midnight.disabled=午夜大秘密已终止！
+Secret.midnight.enabled=午夜大秘密已启动！
+Secret.midnight.items=秘密午夜物品已找到！
+Secret.mighty.gizmo=秘密超大小玩意儿已遭遇！
+Secret.mighty.kamikaze=秘密超绝神风队已开启
+Secret.mutated.plant=秘密变异植物和朋友们已经找到！
 Secret.no.sillent.pill=不是那么安静的药丸已被收集!
 Secret.oasis=秘密绿洲已被定位!
-Secret.passage.egypt=Secret passage to Egypt level has been found!
-Secret.passage.entered=Secret passage has been entered!
+Secret.passage.egypt=秘密去埃及的小路已被找到
+Secret.passage.entered=秘密道路已被进入！
 
 
 Secret.passage.found=秘密小路已被找到!
-Secret.pink=Pink secret has been enabled!
-Secret.pinky.brothers=Secret annoying Pinky's lost brothers have been summoned!
+Secret.pink=粉色秘密已被启动！
+Secret.pinky.brothers=秘密烦人的小粉走丢的哥哥已被召唤！
 Secret.place.found=秘密地点被找到!
-Secret.plant.mutated=Secret plant has been mutated!
+Secret.plant.mutated=秘密植物已被变异！
 Secret.platform.activated=秘密平台已被启动!
 Secret.platform.lifted=秘密平台已被抬升!
 
 
-Secret.poker.game=Secret poker game has been discovered!
-Secret.powerup.collected=Secret power up has been collected!
-Secret.powerup.found=Secret power up has been found!
-Secret.powerup.launched=Secret power up has been launched!
-Secret.powerup.revealed=Secret powerup has been revealed!
-Secret.pyramid=Secret pyramid has been destroyed!
-Secret.room.found=Secret room has been found!
+Secret.poker.game= 秘密扑克游戏已被揭秘!
+Secret.powerup.collected=秘密奖励力量已被收集！
+Secret.powerup.found=秘密奖励能量已被找到！
+Secret.powerup.launched=秘密奖励力量已被发射！
+Secret.powerup.revealed=秘密奖励能量已被揭示！
+Secret.pyramid=秘密金字塔已被炸毁！
+Secret.room.found=秘密房间已被找到
 Secret.room.located=密室已被定位!
-Secret.room.opened=Secret room has been opened!
-Secret.round.two=Secret round two has been discovered!
-Secret.santa.summoned=Secret Santa has been summoned!
-Secret.santa=Secret jammed santa has been unpluged!
-Secret.serious.damage.spawned=Serious Damage has been spawned!
+Secret.room.opened=秘密房间已被打开！
+Secret.round.two=秘密回合2已经开打！
+Secret.santa.summoned=秘密圣诞老人已被召唤！
+Secret.santa=悄悄卡住的圣诞老人已被拔除!
+Secret.serious.damage.spawned=Serious Damage 已被刷出!
 
 
 Secret.serious.health.found=秘密的不是说着玩的血包已被找到!
@@ -3490,11 +3483,11 @@ Secret.shield.catapulted=秘密的屏障已被投射!
 
 Secret.shield.collected=秘密的屏障已被收集!
 Secret.shield.found=秘密的屏障已被找到！
-Secret.snowman=Secret incredible shrinking snowman has been destroyed!
+Secret.snowman=超级不可思议的缩小雪人已被摧毁！
 
 Secret.sound.attack=声音攻击秘密已被找到!
-Secret.spanish.cannon=Secret spanish lost cannon has been discovered!
-Secret.suicidal.plant=Secret suicidal plant has been discovered!
+Secret.spanish.cannon=秘密的西班牙人丢掉的巨炮已被探索
+Secret.suicidal.plant=秘密想自杀的植物已被探索！
 
 Secret.surprise.trap=“惊喜陷阱”已被找到!
 Secret.switch.activated=Secret switch has been activated!
@@ -3513,28 +3506,28 @@ Secret.watcher.activated=Secret watcher has been activated!
 Secret.weapon.collected=秘密武器已被收集!
 
 Secret.weapon.fouund=秘密武器已被找到!
-Secret.yard.discovered=Secret yard has been discovered!
-Secret.yard.unsealed=Secret yard has been unsealed!
+Secret.yard.discovered=秘密庭院已被探索！
+Secret.yard.unsealed=秘密庭院已被接触封印！
 
 Secret.yodeller=秘密约德尔歌手已被找到!
 
 Secret.you.found=你找到了一个秘密区域!
 SeriousBombItem.Name=Serious bomb
-SeriousSamHD.Intro.Text01=Once upon a time, early in the 22nd century, Earth was under a severe attack from Mental's minions and humankind was about to vanish.\n \nSam 'Serious' Stone, world's bravest hero, was sent back in time to change the past and save humankind from total annihilation.
-SeriousSamHD.Intro.Text02=Using the ancient artifact called the 'Time-lock', left on Earth by an ancient alien race, Sam was teleported into the Dayr el-Bahri. This was a great temple built by the female Egyptian ruler, Hatshepsut.
-SeriousSamHD.Intro.Text03=Wandering through the whole land of Egypt, \n        Sam discovered traces of the Sirian civilization, \n        the one that left the "Time-lock" artifact behind.
-SeriousSamHD.Intro.Text04=He found out their spaceship, hidden somewhere inside the solar system.
-SeriousSamHD.Intro.Text05=Of course, Mental was restless, it sent its evil servants into ancient Egypt\n        to make Sam's life miserable.
-SeriousSamHD.Intro.Text06=But, serious as ever,\n        Sam knew how to treat evildoers.
-SeriousSamHD.Intro.Text07=He cleared his path all the\n        way to the Great Pyramid.
-SeriousSamHD.Intro.Text08=And there was mighty Ugh-Zan III,\n        vicious warlock and one of Mental's\n        toughest servants...
-SeriousSamHD.Intro.Text09=Who stood in Sam's way.
-SeriousSamHD.Intro.Text10=But standing in Sam's way is not a smart thing to do.
-SeriousSamHD.Intro.Text11=After a glorious battle Sam defeated this giant...
-SeriousSamHD.Intro.Text12=...and teleported himself onto the spaceship.
-SeriousSamHD.Intro.Text13=And now...
-SeriousSamHD.Intro.Text14=... Serious Sam goes to Sirius.
-SeriousSamHD.Intro.Text15=Or does he?
+SeriousSamHD.Intro.Text01=很久以前，在22世纪初，地球被Mental的爪牙肆意侵掠，人类即将灭绝。\n\n Sam 'Serious' Stone，史上最勇敢的英雄，企图穿越到过去，为全人类灭亡的厄运搏取一线生机！
+SeriousSamHD.Intro.Text02=因为使用了缘故外星人种族使用的神器“时间锁”Sam被传送到了由女埃及领主Hatshepsut建造的神庙"Dayr el-Bahri"
+SeriousSamHD.Intro.Text03=在埃及的区域游荡的路途中, \n        萨姆从时间锁上发现了天狼星人的文明的痕迹
+SeriousSamHD.Intro.Text04=他找到了天狼星文明藏匿于太阳系的某处的飞船。
+SeriousSamHD.Intro.Text05=当然，Mental也不敢掉以轻心，他把租户的仆人派遣到古埃及\N   让Sam生不如死.
+SeriousSamHD.Intro.Text06=但是，与往常一样,\n        Sam知道如何处理那些家伙.
+SeriousSamHD.Intro.Text07=他扫清了去金字塔的路.
+SeriousSamHD.Intro.Text08=在那边，Ugh-Zan III世,\n        邪恶术士，\N 	    mental最强的手下之一
+SeriousSamHD.Intro.Text09=挡住了Sam 的去路.
+SeriousSamHD.Intro.Text10=但是，挡在Sam的道路并不是什么明智之举。
+SeriousSamHD.Intro.Text11=经历了一场壮烈的战斗，Sam打败了这名巨人...
+SeriousSamHD.Intro.Text12=...把自己传送到飞船的内部.
+SeriousSamHD.Intro.Text13=如今...
+SeriousSamHD.Intro.Text14=... Serious Sam 将去往天狼星.
+SeriousSamHD.Intro.Text15=然而这一路上安全么?
 
 Server.AuthFailed=验证失败。
 
@@ -4306,9 +4299,9 @@ Subtitle.07_Karnak1_Sam_DeadSpaceMonkey.01=就像妈妈经常说的，唯一的�
 Subtitle.07_Karnak1_Sam_DeadSpaceMonkey.02=就是是死猴子。
 
 Subtitle.07_Karnak1_Sam_IdBeMadToo.01=如果看不见我的破烂我也会发疯的。
-Subtitle.07_Karnak1_Sam_SpaceMonkey.01=狗屎！死猴子！
+Subtitle.07_Karnak1_Sam_SpaceMonkey.01=靠！外星猴子！
 Subtitle.07_Karnak1_Sam_WhaddaHell.01=该死的，那是什么？
-Subtitle.07_Karnak1_Sam_YouGotAThickSkin.01=找到厚皮了吗？
+Subtitle.07_Karnak1_Sam_YouGotAThickSkin.01=你有厚皮？
 Subtitle.07_Karnak1_Sam_YouGotAThickSkin.02=那你喜不喜欢这个？
 Subtitle.08_Karnak2_Sam_AcuteLeadPoisoning.01=我的症状？急性铅中毒！
 Subtitle.08_Karnak2_Sam_ILikeAPowerfullWoman.01=...我喜欢强壮的女人。
@@ -4320,7 +4313,7 @@ Subtitle.08_Karnak2_Sam_YouCanBeAsCrazy.02=你想多疯狂就多疯狂，
 
 Subtitle.08_Karnak2_Sam_YouCanBeAsCrazy.03=但是只要你想杀了我，
 
-Subtitle.08_Karnak2_Sam_YouCanBeAsCrazy.04=我就会终结你。
+Subtitle.08_Karnak2_Sam_YouCanBeAsCrazy.04=我就会停止为你打call。
 
 
 Subtitle.09_Luxor_HQ_AnubisIsOnline.01=总部，请回答。
@@ -4507,24 +4500,24 @@ Subtitle.12_Hatshepsut_Sam_UghZanAppear.03=噢，该死！
 Subtitle.12_Hatshepsut_Sam_Unconventional.01=非常规任务，但，你能做到。
 
 Subtitle.12_Hatshepsut_Sam_WhoNeedsChoppers.01=嗨嗨，谁想要斧子。
-Subtitle.Aaaah_My_Old_Love.1=Aaaaah, my old love!
-Subtitle.Aaah_Its_Just_What_I_Have_Always_Wanted.1=Aaaah, it's just what I've always wanted!
-Subtitle.AdmirSpeech.1=Thank you, thank you. You are too much.
-Subtitle.AdmirSpeech.2=OK. My name is Admir and I'll be your host tonight in this secret hall of fame.
-Subtitle.AdmirSpeech.3=I'm sure you will have splendid time here,
-Subtitle.AdmirSpeech.4=so please take a seat at any of our free tables.
-Subtitle.AdmirSpeech.5=Errr.. or if you're perhaps having trouble locating one because of outstanding crowd
-Subtitle.AdmirSpeech.6=feel free to position yourself anywhere on our beautiful furnished marble floor.
-Subtitle.AdmirSpeech.7=Before we begin I would just like to present you a showcases
-Subtitle.AdmirSpeech.8=of our polygon tessellation algorithms from modern TV objects modelling software.
-Subtitle.AdmirSpeech.9=I'm sure it won't take more than four to five hours.
-Subtitle.Ahh_fresh_air.1=Aaahhh, fresh air!
+Subtitle.Aaaah_My_Old_Love.1=啊啊啊啊！我的臻爱!
+Subtitle.Aaah_Its_Just_What_I_Have_Always_Wanted.1=啊,这就是我一直想要的!
+Subtitle.AdmirSpeech.1=谢谢，谢谢，你们太客气了！.
+Subtitle.AdmirSpeech.2=好的，我的名字是埃德米尔，我今晚是这个秘密名人堂的主持人！
+Subtitle.AdmirSpeech.3=我相信你在这里一定会过得很愉快。
+Subtitle.AdmirSpeech.4=所以请随意坐！
+Subtitle.AdmirSpeech.5=额...或者，如果你因为人流太多而找不到一个椅子的话
+Subtitle.AdmirSpeech.6=您可以在我们漂亮的大理石地板上任意位置。
+Subtitle.AdmirSpeech.7=在我们开始之前，我想向大家展示一下现代电视对象建模软件中的多边形镶嵌算法。
+Subtitle.AdmirSpeech.8=现代电视对象建模软件中的多边形镶嵌算法。
+Subtitle.AdmirSpeech.9=我确定这不会超过4-5个小时。
+Subtitle.Ahh_fresh_air.1=啊啊啊啊啊，新鲜的空气!
 
 Subtitle.AlrightJustOneMore=好，再多一个！
 
-Subtitle.Am_I_The_Man_Or_Am_I_The_Man.1=Am I the man or am I THE MAN!
-Subtitle.And_i_thought_i_saw_the_last_of_you.1=And I thought I saw the last of you!
-Subtitle.Bastards.1=You bastards!
+Subtitle.Am_I_The_Man_Or_Am_I_The_Man.1=我是男人！或者我！是！男！人！
+Subtitle.And_i_thought_i_saw_the_last_of_you.1=我以为我看到了你们最后一个！
+Subtitle.Bastards.1=你个混蛋！!
 
 Subtitle.BlueFlagReturned.1=蓝旗返回基地！
 
@@ -4535,52 +4528,52 @@ Subtitle.BlueTeamScores.1=蓝队得分！
 Subtitle.BlueTeamWinsTheRound.1=本轮蓝队获胜！
 
 Subtitle.BlueTeamWon.1=蓝队赢了！
-Subtitle.Cmon_you_ugly_freaks.1=C'mon you ugly freaks!
-Subtitle.Come_On_I_Have_Enough_Lead_For_All_Of_You.1=Come on, I have enough lead for all of you, he he!
-Subtitle.Come_On_Just_Try_To_Hurt_Me_Now.1=Come on, just try to hurt me now!
-Subtitle.Come_On_Play_With_Me_Now.1=Come on, play with me now!
-Subtitle.Confession.10=and I'm really sorry about those.
-Subtitle.Confession.11=Not!
-Subtitle.Confession.12=It's also possible I accidentally dropped a few bombs here and there, but fortunately some of your employees caught them.
-Subtitle.Confession.13=Apparently I also slightly murdered many of your staff, which indeed might be the case,
-Subtitle.Confession.14=and I'm almost sorry about that, so I hope that counts.
-Subtitle.Confession.15=Oh yeah, I might've used bad language from time to time, but who gives a crap!
-Subtitle.Confession.16=Finally, I'm heading straight towards you, and nothing, but nothing, can drag me away from your path.
-Subtitle.Confession.17=So please, have faith in this one thing.
-Subtitle.Confession.18=I'm coming to get...
-Subtitle.Confession.19=...YOU!
-Subtitle.Confession.1=Forgive me father, for I have sinned.
-Subtitle.Confession.2=I'm not your father!
-Subtitle.Confession.3=Oh yeah, that's the other movie.
-Subtitle.Confession.4=Anyway, I do have a few things I'd like to confess.
-Subtitle.Confession.5=Well, that's what the confessional's for, isn't it my son?
-Subtitle.Confession.6=I've been bad.
-Subtitle.Confession.7=I've been following the path leading to your being, but I must admit I almost strayed away.
-Subtitle.Confession.8=There were great temptations on my journey.
-Subtitle.Confession.9=It seems there have been a few unfortunate casualties during the past few days,
-Subtitle.Croteam_owns.1=Croteam owns!
-Subtitle.Damn.1=Damn!
-Subtitle.Die_When_I_Kill_You.1=Die when I kill you!
-Subtitle.Double_Your_Gun_Double_Your_Fun.1=Double your gun, double your fun!
-Subtitle.EndConversation.10=I'll be there soon to give it to you in person.
-Subtitle.EndConversation.11=I'm on my way over right now. Thanks. Bye.
-Subtitle.EndConversation.12=It's time for bed kids. Cartoons are over.
-Subtitle.EndConversation.1=We are sorry, it is not necessary to dial a one when calling this number...
-Subtitle.EndConversation.2=Whadda?
-Subtitle.EndConversation.3=..would you please hang up and try your call again.
-Subtitle.EndConversation.4=Not again!
-Subtitle.EndConversation.5=Hello, you called Mental's residence.
-Subtitle.EndConversation.6=I am not at home, please leave a message after following sound.
-Subtitle.EndConversation.7=Yeah, this is Serious Sam, calling for Mental.
-Subtitle.EndConversation.8=I guess you're not home right now.
-Subtitle.EndConversation.9=I have a special delivery package for you.
+Subtitle.Cmon_you_ugly_freaks.1=来啊！你这丑八怪！
+Subtitle.Come_On_I_Have_Enough_Lead_For_All_Of_You.1=来吧，人人都有子弹!
+Subtitle.Come_On_Just_Try_To_Hurt_Me_Now.1=来吧，伤我下试试！
+Subtitle.Come_On_Play_With_Me_Now.1=来啊正面刚我啊！
+Subtitle.Confession.10=我真的很抱歉。
+Subtitle.Confession.11=才怪！
+Subtitle.Confession.12=也有可能我不小心在这里和那里丢了几枚炸弹，但幸运的是，你的一些雇员抓住了它们。
+Subtitle.Confession.13=很明显，我也稍微地杀了你的许多手下，事实上可能就是这样，
+Subtitle.Confession.14=对此我也很抱歉,所以我希望这很重要
+Subtitle.Confession.15=哦，对了，我可能经常爆粗口，但那谁管得着呢！
+Subtitle.Confession.16=最后呢，我要直接去你那边，没有什么，没有什么能让我回心转意。
+Subtitle.Confession.17=所以请对我要做的事情充满信心
+Subtitle.Confession.18=我终将会搞定...
+Subtitle.Confession.19=...你!
+Subtitle.Confession.1=对不起神父！我有罪！
+Subtitle.Confession.2=我不是你的神父！
+Subtitle.Confession.3=哦对！那是另一个电影。
+Subtitle.Confession.4=顺便一提，我也有几件事儿需要忏悔。
+Subtitle.Confession.5=好吧，这就是忏悔要做的事情，不是吗？
+Subtitle.Confession.6=我很邪恶。
+Subtitle.Confession.7=我一直在追随通往你存在的道路，但我必须承认我几乎迷失了方向。
+Subtitle.Confession.8=在我的旅途中有很多诱惑。
+Subtitle.Confession.9=在过去的几天里似乎有一些不幸的伤亡，
+Subtitle.Croteam_owns.1=Croteam 得分!
+Subtitle.Damn.1=该死!
+Subtitle.Die_When_I_Kill_You.1=请你去死一下好么!
+Subtitle.Double_Your_Gun_Double_Your_Fun.1=双重枪口，双重乐趣!
+Subtitle.EndConversation.10=我很快就到那里亲自给你。
+Subtitle.EndConversation.11=我已经在路上了，谢谢，拜。
+Subtitle.EndConversation.12=上床睡觉啦，卡通片已经放完了
+Subtitle.EndConversation.1=对不起，您拨打的电话不必拨打
+Subtitle.EndConversation.2=什么鬼？
+Subtitle.EndConversation.3=...请稍后重新拨打
+Subtitle.EndConversation.4=别再这样了！
+Subtitle.EndConversation.5=你好，这里是Mental的住宅
+Subtitle.EndConversation.6=我现在不在家，请在音效响起后留言。
+Subtitle.EndConversation.7=Yeah, 这里是 Serious Sam, 给 Mental的留言.
+Subtitle.EndConversation.8=.我猜你现在不在家
+Subtitle.EndConversation.9=但我有一个快递给你
 
 Subtitle.Excelent.1=好极了！
 
 Subtitle.FewMoreCharges=应该只需要再多充几下！
 
 Subtitle.Fight.1=战斗！
-Subtitle.Finally_Some_Sci_Fi_Mumbo_Jumbo.1=Finally, some sci-fi mumbo jumbo!
+Subtitle.Finally_Some_Sci_Fi_Mumbo_Jumbo.1=终于，到了科技瞎叨叨的时间！
 
 Subtitle.General.AaaahMyOldLove=啊，我的挚爱！
 
@@ -4677,8 +4670,8 @@ Subtitle.General.NotEnoughRoomInThisTown.1=这个城市没有足够的空间
 Subtitle.General.NotEnoughRoomInThisTown.2=没有足够的空间，搭档。
 
 Subtitle.General.OhFuck=噢，该死！
-Subtitle.General.PyramidsAreMadeOfStone.1=The Pyramids are made of stone,
-Subtitle.General.PyramidsAreMadeOfStone.2=but I still rock!
+Subtitle.General.PyramidsAreMadeOfStone.1=金字塔是石头做的
+Subtitle.General.PyramidsAreMadeOfStone.2=但我现在很石头（摇滚）
 
 Subtitle.General.SeriouslyDoomed.1=你们不知道而已，
 
@@ -4724,7 +4717,7 @@ Subtitle.General.YouMayBeBig.1=你可能很巨大，但是
 ！
 Subtitle.General.YouMayBeBig.2=我真的也是很坏！
 Subtitle.General.YouWillNeverLearn=你永远也学不长记性！
-Subtitle.Geronimo.1=Geronimoooo!
+Subtitle.Geronimo.1=神兵天降！!
 
 Subtitle.GonnaNeedMore=只有这个还不够！
 Subtitle.Good_Morning_Babylon.1=早上好，宝贝!
@@ -4883,67 +4876,66 @@ Subtitle.RedTeamScores.1=红队得分！
 Subtitle.RedTeamWinsTheRound.1=本轮红队获胜！
 
 Subtitle.RedTeamWon.1=红队赢了！
-Subtitle.Rocket_Ranger.1=Rocket ranger, ready to rocket!
-Subtitle.Rocket_Roll.1=Rocket roll!
-Subtitle.Say_Hello_To_Papa.1=Say hello to papa!
-Subtitle.Secret.1=Secret you have found!
-Subtitle.SecretCall1.1=Hello. Operator, give me Las Vegas.
+Subtitle.Rocket_Ranger.1=火箭游骑兵！火箭上膛！
+Subtitle.Rocket_Roll.1=火箭出动！
+Subtitle.Say_Hello_To_Papa.1=像爸爸问好!
+Subtitle.Secret.1=秘密的你已找到!
+Subtitle.SecretCall1.1=你好接线员，我要拉斯维加斯线！
 Subtitle.SecretCall1.2=Hello?
-Subtitle.SecretCall1.3=Blondie? Is it you?
-Subtitle.SecretCall1.4=No, it's John.
-Subtitle.SecretCall1.5=When will he come?
-Subtitle.SecretCall1.6=He will come when he's done, boy.
-Subtitle.SecretCall1.7=Done with what??
-Subtitle.SecretCall1.8=Bah, I've been waiting forever for him to show up.
-Subtitle.SecretCall2.1=Hello?
-Subtitle.SecretCall2.2=Who the hell is that?
-Subtitle.SecretCall2.3=It's me. Sam.
-Subtitle.SecretCall2.4=Sam who?
+Subtitle.SecretCall1.3=Blondie?是你么?
+Subtitle.SecretCall1.4=不，是John.
+Subtitle.SecretCall1.5=他什么时候来？？
+Subtitle.SecretCall1.6=他干完事儿就来了.
+Subtitle.SecretCall1.7=他干什么呢？
+Subtitle.SecretCall1.8=切，我不能在这老等着他来。
+Subtitle.SecretCall2.1=你好?
+Subtitle.SecretCall2.2=这他妈是谁？
+Subtitle.SecretCall2.3=是我. Sam.
+Subtitle.SecretCall2.4=Sam 谁?
 Subtitle.SecretCall2.5=Serious Sam.
-Subtitle.SecretCall2.6=Yeah right.
-Subtitle.SecretCall2.7=What a joker.
-Subtitle.SecretCall2.8=Sam I am!
+Subtitle.SecretCall2.6=Yeah 对了.
+Subtitle.SecretCall2.7=真会开玩笑.
+Subtitle.SecretCall2.8=我！是！Sam！
 Subtitle.SecretCall3.1=Hello?
-Subtitle.SecretCall3.2=Who the hell is that?
-Subtitle.SecretCall3.3=It's me. Sam.
-Subtitle.SecretCall3.4=Sam who?
+Subtitle.SecretCall3.2=这他妈是谁？
+Subtitle.SecretCall3.3=是我. Sam.
+Subtitle.SecretCall3.4=Sam 谁?
 Subtitle.SecretCall3.5=Serious Sam.
-Subtitle.SecretCall3.6=Yeah right.
-Subtitle.SecretCall3.7=Hmmm...
-Subtitle.SecretCall3.8=Hey! Now I get it!
-Subtitle.SecretCall3.9=Sam I am.
-Subtitle.SecretCall4.10=Look, I'm really busy right now.
-Subtitle.SecretCall4.11=Can you call later?
-Subtitle.SecretCall4.12=Damn, I wish him luck.
-Subtitle.SecretCall4.13=Well, I wish myself luck.
-Subtitle.SecretCall4.14=Whatever.
+Subtitle.SecretCall3.6=Yeah 对了.
+Subtitle.SecretCall3.7=Emmm...
+Subtitle.SecretCall3.8=嘿! 我知道你在耍我!
+Subtitle.SecretCall3.9=我！是！Sam！
+Subtitle.SecretCall4.10=听着我现在真的很忙
+Subtitle.SecretCall4.11=你能一会再来电话么？
+Subtitle.SecretCall4.12=该死，我祝他好运吧。
+Subtitle.SecretCall4.13=好的，我祝我好运吧。
+Subtitle.SecretCall4.14=管他呢.
 Subtitle.SecretCall4.1=Hello?
-Subtitle.SecretCall4.2=Is this Sam?
-Subtitle.SecretCall4.3=Yes, who is that?
-Subtitle.SecretCall4.4=It's me.
-Subtitle.SecretCall4.5=Sam, from the Second Encounter.
-Subtitle.SecretCall4.6=I'd knew you would call.
-Subtitle.SecretCall4.7=I'm pretty close to Mental right now.
-Subtitle.SecretCall4.8=I'm getting kicked in the ass.
-Subtitle.SecretCall4.9=Hey, can you tell me what's in the store for me?
-Subtitle.Serious_Speed.1=Whoho, serious speed!
-Subtitle.Serious_Weaponry_For_Serious_People.1=Serious weapons for serious people!
-Subtitle.Serious_firepower.1=Now, that's some serious firepower!
-Subtitle.Seriously_Man_This_Isnt_Funny.1=Seriously, man, this isn't funny!
-Subtitle.Sorry_Did_I_Wake_You.1=Sorry, did I wake you?
-Subtitle.StillGonnaNeed=Still gonna need a few more
+Subtitle.SecretCall4.2=是Sam么?
+Subtitle.SecretCall4.3=是的，你是谁?
+Subtitle.SecretCall4.4=是我.
+Subtitle.SecretCall4.5=萨姆，从第二次遭遇来的。
+Subtitle.SecretCall4.6=我知道你会打电话过来.
+Subtitle.SecretCall4.7=我现在离mental很近了
+Subtitle.SecretCall4.8=我要狠狠踢他的屁股
+Subtitle.SecretCall4.9=嘿，你能告诉我前面有什么商店么
+Subtitle.Serious_Speed.1=呜呼！ serious speed!
+Subtitle.Serious_Weaponry_For_Serious_People.1=认真的男人才配得上严肃的武器！
+Subtitle.Serious_firepower.1=这才是一些真正的火力！
+Subtitle.Seriously_Man_This_Isnt_Funny.1=真的，伙计，这不好玩儿！
+Subtitle.Sorry_Did_I_Wake_You.1=对不起，我把你吵起来了？
+Subtitle.StillGonnaNeed=需要更多！
 
 
 Subtitle.StillGonnaNeed=还需要一会儿
-Subtitle.TakeCover.1=Take cover, it's gonna blow!
+Subtitle.TakeCover.1=找掩护!要炸了！
 
 Subtitle.TakenTheLead.1=您已取得领先优势！
-Subtitle.That_Was_Close.1=That was close.
-Subtitle.The_Doorman_Should_Wear_A_Suit.1=The doorman should wear a suit!
-Subtitle.These_Guys_Have_Seriously_Lost_Their_Heads.1=These guys have seriously lost their heads!
-Subtitle.TheyHaveYourFlag.1=They have your flag!
+Subtitle.That_Was_Close.1=好险
+Subtitle.The_Doorman_Should_Wear_A_Suit.1=看门狗需要穿衣服！
+Subtitle.These_Guys_Have_Seriously_Lost_Their_Heads.1=这些哥们的确是失了智!
+Subtitle.TheyHaveYourFlag.1=他们拿走了你的旗子!
 
-Subtitle.TheyHaveYourFlag.1=他们有你的标志！
 
 Subtitle.Three.1=3！
 
@@ -4952,25 +4944,25 @@ Subtitle.ThreeFragsLeft.1=还剩3个旗帜！
 
 Subtitle.TiedForALead.1=为了领先，团结起来！
 
-Subtitle.Time_To_Inflict_Some_Serious_Pain.1=Time to inflict some serious pain!
-Subtitle.To_be_or_not_to_be.1=To be or not to be, that is a serious question!
+Subtitle.Time_To_Inflict_Some_Serious_Pain.1=是时候造成成吨的伤害了!
+Subtitle.To_be_or_not_to_be.1=生存还是死亡，这是个严肃的问题。
 Subtitle.Two.1=2。
 
 
 Subtitle.TwoFragsLeft.1=还剩2个旗帜！
-Subtitle.Two_Heads.1=Hm, they always said two heads are better than one! But how does it fart?
-Subtitle.Ugh_Those_Babylonians_Were_Totally_Crazy.1=Ugh, those Babylonians were totally crazy!
-Subtitle.Wait_For_Me_Montezuma_Here_I_Come.1=Wait for me, Montezuma, here I come!
+Subtitle.Two_Heads.1=他们总是说3个臭皮匠顶个诸葛亮，但是他要怎么放屁？
+Subtitle.Ugh_Those_Babylonians_Were_Totally_Crazy.1=额，这些巴比伦人真是失了智！
+Subtitle.Wait_For_Me_Montezuma_Here_I_Come.1=等着我，蒙特祖马，我来了！
 
 Subtitle.WellDone.1=干得好！
-Subtitle.Whadda_Hell_Is_That_Where_Is_The_Grail.1=What the hell is this? Where is the grail?
-Subtitle.What_Are_You_Screaming.1=What are you screaming for? The pain hasn't even started yet!
-Subtitle.What_Are_You_Waiting_For_A_One_Liner.1=What are you waiting for? A one liner?
-Subtitle.What_Is_This_Looks_Like_A_Boxing_Glove.1=What is this? Looks like a boxing glove.
-Subtitle.Who_is_next.1=Who's next?
-Subtitle.Whohoo_Lets_Go_Bowling.1=Whoohoo, let's go bowling!
+Subtitle.Whadda_Hell_Is_That_Where_Is_The_Grail.1=这踏马什么鬼? 杯子哪儿去了?
+Subtitle.What_Are_You_Screaming.1=你在这瞎叫唤什么? 痛苦还未开始呢!
+Subtitle.What_Are_You_Waiting_For_A_One_Liner.1=你在等啥？等车呢么？
+Subtitle.What_Is_This_Looks_Like_A_Boxing_Glove.1=这是啥？看起来像拳击手套.
+Subtitle.Who_is_next.1=还有谁?
+Subtitle.Whohoo_Lets_Go_Bowling.1=呜呼！保龄球时间!
 Subtitle.Yeah_baby.1=Yeah, baby!
-Subtitle.Yeeehaw.1=Yeeeehaw!
+Subtitle.Yeeehaw.1=噫哟哟哟哟哟哟哟哈!
 Subtitle.Yes.1=YES!
 Subtitle.Yoohoo.1=Whoohoo!
 
@@ -4980,38 +4972,38 @@ Subtitle.YouHaveLTK.1=你有猎杀许可证！
 Subtitle.YouHaveTheirFlag.1=您有他们的旗帜！
 
 Subtitle.YouWon.1=您获胜了！
-Subtitle.You_Look_Familiar.1=Hey, you look familiar! I think I killed your brother in the last game!
-Subtitle.You_May_Be_Big_But_I_Am_Serious.1=You may be big, but I am serious!
-Subtitle.You_are_a_big_one_aint_cha.1=Oh, you're big one, ain't cha?
-Subtitle.You_killed_Blondie.1=Oh my God. You killed Blondie!
-Subtitle.Yuuhuu_This_Is_My_Lucky_Day.1=Whoohoo, this is my lucky day!
-Subtitle.aaaaa_yourself.1=AAAAAAAA yourself!
-Subtitle.cool.1=Cool!
-Subtitle.groovy.1=Groovy!
-Subtitle.hahahaha.1=Ha ha ha ha ha ... ha? 
-Subtitle.here_comes_trouble.1=Here comes trouble!
-Subtitle.here_we_go.1=Here we goooo! 
-Subtitle.hey.1=Hey!
-Subtitle.is_it_just_me.1=Is it just me or did everything around here get a lot better looking?
-Subtitle.is_it_just_me.2=Where's a mirror?
-Subtitle.lets_rock_and_roll.1=Let's rock and roll!
-Subtitle.look_at_the_size_of_that_thing.1=Look at the size of that thing!
-Subtitle.looks_like_it_leeds_to_the_surface.1=Looks like it leads to the surface.
-Subtitle.not_again_who_is_your_daddy.1=Not again! Who's your daddy!
-Subtitle.now_thats_a_lot_of_bull.1=Now that's a lot of bull!
+Subtitle.You_Look_Familiar.1=嘿，你看起来很熟悉，可能我上局干掉了你的哥哥!
+Subtitle.You_May_Be_Big_But_I_Am_Serious.1=你也许块头很大，但我是认真的!
+Subtitle.You_are_a_big_one_aint_cha.1=哼，真是个大块头啊！
+Subtitle.You_killed_Blondie.1=Oh my God. You killed Blondie!天啊！你杀了Blondie！
+Subtitle.Yuuhuu_This_Is_My_Lucky_Day.1=Whoohoo, 今天是我的幸运日!
+Subtitle.aaaaa_yourself.1=啊啊啊啊啊啊啊，你个头啊!
+Subtitle.cool.1=酷!
+Subtitle.groovy.1=动感!
+Subtitle.hahahaha.1=哈哈哈哈哈哈。。。嗝? 
+Subtitle.here_comes_trouble.1=麻烦来啦!
+Subtitle.here_we_go.1=走喽喽喽喽喽! 
+Subtitle.hey.1=嘿!
+Subtitle.is_it_just_me.1=只有我，还是这里的一切变好看了？
+Subtitle.is_it_just_me.2=镜子在哪?
+Subtitle.lets_rock_and_roll.1=我们出动把！
+Subtitle.look_at_the_size_of_that_thing.1=看看这家伙的尺寸！!
+Subtitle.looks_like_it_leeds_to_the_surface.1=看起来这条道会通往地面.
+Subtitle.not_again_who_is_your_daddy.1=别再来了! 谁是你爸爸!
+Subtitle.now_thats_a_lot_of_bull.1=现在这又好多牛!
 Subtitle.ready_for_battle.1=准备战斗!!!
-Subtitle.samicide.1=Samicide!
-Subtitle.seriously_is_that_the_best_you_can_do.1=Seriously, is that the best you can do?
-Subtitle.thats_right_its_all_in_the_wrist.1=That's right, it's all in the wrist.
-Subtitle.they_never_learn.1=They never learn!
-Subtitle.this_is_getting_serious.1=This is getting serious!
-Subtitle.uffff.1=Phewww...
-Subtitle.uh_uh.1=OH OH!
-Subtitle.who_turned_out_the_lights.1=Who turned out the lights?
-Subtitle.yeah_its_all_fun_and_games_until_somebody_loses_an_eye.1=Yeah, it's all fun and games, until somebody loses an eye!
-Subtitle.you_killed_pinky.1=Oh my God. You killed Pinky!
-SunPalace.Name=Sun Palace
-Survival.WaveNo=Wave
+Subtitle.samicide.1=萨姆冲锋龙卷风摧毁停车场!
+Subtitle.seriously_is_that_the_best_you_can_do.1=讲真?这是你的真实水平么？
+Subtitle.thats_right_its_all_in_the_wrist.1=对，都在手腕上.
+Subtitle.they_never_learn.1=他们没脑子！
+Subtitle.this_is_getting_serious.1=事情开始变得焦灼起来！
+Subtitle.uffff.1=呼
+Subtitle.uh_uh.1=糟 糕!
+Subtitle.who_turned_out_the_lights.1=谁关的灯s?
+Subtitle.yeah_its_all_fun_and_games_until_somebody_loses_an_eye.1=是啊之前都是花拳绣腿，直到某人的眼睛被戳爆了!
+Subtitle.you_killed_pinky.1=额滴神啊！你杀了小粉!
+SunPalace.Name=日坛
+Survival.WaveNo=波数
 SysCheck.CPU.Recommended=4核CPU至少3GHz
 SysCheck.CPU.Required=2核CPU至少2Ghz
 SysCheck.GPU.Recommended=nVidia GeForce GTX480/580，ATI/AMD Radeon HD 5870/6970
