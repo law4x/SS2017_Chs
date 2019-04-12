@@ -5,7 +5,7 @@
 
 翻译：斗盔Gorgonzoler
 
-字体：
+字体：law_4x
 
 校对：
 
