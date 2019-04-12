@@ -4553,6 +4553,7 @@ Subtitle.Confession.9=在过去的几天里似乎有一些不幸的伤亡，
 Subtitle.Croteam_owns.1=Croteam 得分!
 Subtitle.Damn.1=该死!
 Subtitle.Die_When_I_Kill_You.1=请你去死一下好么!
+Subtitle.Deja_Vu.1=我有姿势我自豪！
 Subtitle.Double_Your_Gun_Double_Your_Fun.1=双重枪口，双重乐趣!
 Subtitle.EndConversation.10=我很快就到那里亲自给你。
 Subtitle.EndConversation.11=我已经在路上了，谢谢，拜。
@@ -4812,59 +4813,58 @@ Subtitle.IntroNarrator.23=这件来自古代的复制品将是
 Subtitle.IntroNarrator.24=通往古老历史一角的通道，
 
 Subtitle.IntroNarrator.25=也是他们唯一的生存机会。
-Subtitle.It_aint_size_that_matters.1=It ain't the size that matters, it's how you use it.
-Subtitle.Lets_Get_Out_Of_Here.1=Let's get out of here!
-Subtitle.Lets_Raise_The_Rhythm.1=Let's raise the rhythm!
-Subtitle.Lets_get_serious.1=Let's get serious!
+Subtitle.It_aint_size_that_matters.1=你块头再大，太笨也没啥用啊
+Subtitle.Lets_Get_Out_Of_Here.1=咱们赶紧溜吧!
+Subtitle.Lets_Raise_The_Rhythm.1=让我们节拍加快！!
+Subtitle.Lets_get_serious.1=咱们严阵以待!
 
 
 Subtitle.LicenseToKillExpired.1=猎杀许可证过期了！
-Subtitle.Liftboy_This_Isnt_My_Floor.1=Liftboy, this isn't my floor!
-Subtitle.Look_Enough_Lead_For_Everybody_Hahaha.1=Look, enough lead for everybody ha ha ha!
-Subtitle.Look_Ma_I_Am_A_Lumberjack.1=Look ma, I'm a lumberjack!
-Subtitle.Look_at_that.1=Look at that moron. He really pressed that button!
+Subtitle.Liftboy_This_Isnt_My_Floor.1=电梯小子！这不是我要去的层数！
+Subtitle.Look_Enough_Lead_For_Everybody_Hahaha.1=快看啊！大量的子弹！人人有份！哈哈哈！
+Subtitle.Look_Ma_I_Am_A_Lumberjack.1=老妈快看！我是伐木工!
+Subtitle.Look_at_that.1=看看那个傻Ⅹ，他还是按下了按钮!
 
 
 Subtitle.LostTheLead.1=您已经失去了领先优势！
-Subtitle.Man_Its_Cold_My_Nipples_Are_Like_Pencil_Erasers.1=Man, it's cold. My nipples are like pencil erasers.
-Subtitle.Man_You_Are_Ugly.1=Man, you are UGLY! 
+Subtitle.Man_Its_Cold_My_Nipples_Are_Like_Pencil_Erasers.1=哥们，这儿真冷，我的乳头都快冻成铅笔橡皮头了.
+Subtitle.Man_You_Are_Ugly.1=天啊，你真他妈丑！ 
 
 
 Subtitle.MatchIsTied.1=比赛是联系在一起的！
-Subtitle.Maybe_I_Should_Follow_The_Light.1=Maybe I should follow that light.
-Subtitle.Minigun_For_Maximum_Pleasure.1=Minigun, for maximum pleasure!
-Subtitle.Much_better.1=Much better!
+Subtitle.Maybe_I_Should_Follow_The_Light.1=也许我应该跟着那道光.
+Subtitle.Minigun_For_Maximum_Pleasure.1=小小枪，大满足!
+Subtitle.Much_better.1=好多了!
 Subtitle.MultiKill.1=3连杀！
-Subtitle.My_Flaming_Fists_Of_Fury.1=My flaming fists of fury will destroy you, fiend ha ha ha! God, who writes this stuff?
-
+Subtitle.My_Flaming_Fists_Of_Fury.1=恶魔!吾以怒气！著称怒火之拳！将汝制裁！好吧，这是谁写的？
 Subtitle.NewRound.1=新一局在... 启动
 
 Subtitle.Noooo.1=Noooo!!
 
 Subtitle.NotQuiteEnough=很好，但是还不够！
-Subtitle.Not_Again.1=Not again!
-Subtitle.Now_I_Am_Seriously_Serious.1=Now I am seriously serious!
-Subtitle.Now_I_Got_Your_Ticket_To_Hell.1=Now I got your ticket to hell!
-Subtitle.Now_This_Baby_Should_Warm_Things_Up.1=Now this baby should warm things up a bit!
-Subtitle.Now_This_Is_What_I_Call_A_Gun.1=Now this is what I call a GUN!
-Subtitle.Now_You_Will_Dance_My_Tune.1=Now you'll dance my tune!
-Subtitle.Oh_God_Never_Underestimate_The_Power.1=Oh god, never underestimate the power of stupid things in large numbers!
-Subtitle.Oh_My_God_I_Killed_All_Pinkys_Brothers.1=Oh my god, I killed all Pinky's brothers he he!
-Subtitle.Oh_Yeah_Finally_Some_Dark_Dungeons.1=Oh yeah, FINALLY some dark dungeons!
-Subtitle.Oh_Yeah_Shake_Baby_Shake.1=Oh yeah, shake baby shake, but I ain't gonna quake!
-Subtitle.Olala_I_Love_This_One.1=Olala, I love this one!
+Subtitle.Not_Again.1=别再来了!
+Subtitle.Now_I_Am_Seriously_Serious.1=我现在比认真还认真!
+Subtitle.Now_I_Got_Your_Ticket_To_Hell.1=地狱门票已经为你备好了!
+Subtitle.Now_This_Baby_Should_Warm_Things_Up.1=这个小家伙应该可以拿来暖场!
+Subtitle.Now_This_Is_What_I_Call_A_Gun.1=这才是我口中说的 枪!
+Subtitle.Now_You_Will_Dance_My_Tune.1=现在你要在我的节奏里跳舞了!
+Subtitle.Oh_God_Never_Underestimate_The_Power.1=哦神啊，千万别嘀咕一大群傻x的能量!
+Subtitle.Oh_My_God_I_Killed_All_Pinkys_Brothers.1=额滴神啊, 我杀了小粉他哥哥！欸嘿~
+Subtitle.Oh_Yeah_Finally_Some_Dark_Dungeons.1=Oh yeah, FINALLY some dark dungeons!哦耶！终于！有暗黑地下城了！
+Subtitle.Oh_Yeah_Shake_Baby_Shake.1=对，再来地震啊，我可不怕！
+Subtitle.Olala_I_Love_This_One.1=哦啦啦~我喜欢这一个！
 Subtitle.One.1=1。
 
 
 Subtitle.OneFragLeft.1=还剩1个旗帜！
-Subtitle.OneMinuteLeft.1=One minute left!
+Subtitle.OneMinuteLeft.1=还剩一分钟!
 
 Subtitle.OneMinuteWarning.1=还剩1分钟！
-Subtitle.Ooo.1=AAAAAHHHHH!
-Subtitle.Oooooo_Yeah.1=OOOO YEAH! 
-Subtitle.Owned.1=Owned!
-Subtitle.PleaseDontHurtMe.1=Please, don't hurt me!
-Subtitle.Please_mister.1=Please mister, don't go in there. You will ruin our secret.
+Subtitle.Ooo.1=啊啊啊啊啊啊啊啊啊!
+Subtitle.Oooooo_Yeah.1=欧耶！! 
+Subtitle.Owned.1=得分!
+Subtitle.PleaseDontHurtMe.1=求你别杀了我！!
+Subtitle.Please_mister.1=求你了先生，别去那边，你会毁了我们的秘密！
 
 
 Subtitle.RedFlagReturned.1=红旗回来了！
