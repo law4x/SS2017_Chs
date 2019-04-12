@@ -12,7 +12,7 @@
 
 0_03_TombOfRamses.Name=拉美西斯三世陵墓
 0_04_Medina.Name=无处可藏
-0_04_ValleyOfTheKings.Name=山丘之王
+0_04_ValleyOfTheKings.Name=帝王谷
 0_05_CairoTown.Name=钢铁阴影之下
 0_05_MoonMountains.Name=银月山
 0_06_Oasis.Name=绿洲
