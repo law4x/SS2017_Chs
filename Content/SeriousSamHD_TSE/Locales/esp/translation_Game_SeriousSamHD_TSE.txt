@@ -879,21 +879,21 @@ Gamepad.Button.RThumbL=右摇杆左
 Gamepad.Button.RThumbR=右摇杆右
 Gamepad.Button.RThumbU=右摇杆上
 
-GasCanisterName=Gas Canister
+GasCanisterName=汽油桶
 
 GfxWrapperSw.CannotInitialize=无法进行软件初始化。
 GfxWrapperSw.CannotSetupFullScreen=无法为软件渲染设置全屏模式。
 GoldMedalEarned=您已获得金牌！
 
-GrabMessage={plcmdUse} Grab
+GrabMessage={plcmdUse} 拿起
 
 Graffiti.Alex=他们不会把钢琴给亚历克斯。
 Graffiti.Alice=谁他妈的是爱丽丝？
 
 Graffiti.AutoSave=忏悔，你仍然可以自我救赎。
-Graffiti.Biomechs=生化机械人是懦夫
+Graffiti.Biomechs=生化机甲弱爆了
 。
-Graffiti.Corporate=去你妈的，婊子！
+Graffiti.Corporate=去你妈的，社畜婊子！
 
 Graffiti.Curse=这些公司已经从太空带来了诅咒。
 
@@ -904,7 +904,7 @@ Graffiti.Fault=萨姆，滚蛋，这都是你的错！
 
 Graffiti.Flee=不要逃避！
 Graffiti.Gnaars=吉娜尔梦到自爆绵羊？
-Graffiti.Guns=给我们枪。我们将消灭它们。
+Graffiti.Guns=给我们枪，我们就会用枪交换他们的血。
 Graffiti.Hero=萨姆是我们的英雄。
 Graffiti.Homeland=地球是我们的家园。保卫家园！
 Graffiti.Hope=希望还在！
@@ -913,13 +913,13 @@ Graffiti.HumanRace=人类从来没有完成任何事情。都是神命令他们�
 
 Graffiti.IfYoureReading=如果你正在读这句话，那说明你玩游戏的姿势不正确。
 
-Graffiti.Khunms=卡拉姆没有蛋蛋。
+Graffiti.Khunms=Khnums没有蛋蛋。
 
-Graffiti.Kilroy=吉劳埃到此一游。
+Graffiti.Kilroy=Kilroy到此一游。
 
 Graffiti.Lost=神指引的那些人不会迷失。
 Graffiti.LoveYou=我爱你，萨姆！
-Graffiti.NoCover=没有掩护。所有人。
+Graffiti.NoCover=没有掩护。纯爷们怼他。
 Graffiti.NoHero=萨姆根本不是英雄。
 Graffiti.NoSpace=对太空旅行说"不"！
 Graffiti.Prevail=地球防卫军必胜！
@@ -929,19 +929,19 @@ Graffiti.Sam=萨姆佛比亚。
 Graffiti.Save=忏悔，你仍然可以得到救赎。
 Graffiti.Scorps=蜘蛛人。
 
-Graffiti.ScrewEDF=滚蛋，地球防卫军！
+Graffiti.ScrewEDF=去你的，地球防卫军！
 
 Graffiti.Sin=人类罪大恶极。我们得到了惩罚。
 Graffiti.Singled=神从上百万人中单单选中了他。
 Graffiti.Smoe=斯摩也曾到此一游。
 
 Graffiti.TitJob=巴姆，小菜一碟！
-Graffiti.UselessEDF=地球防卫军是没用的混蛋！
+Graffiti.UselessEDF=地球防卫军是没用的软蛋！
 Graffiti.Victory=胜利在望！
 Graffiti.WhoseVictory=这是谁的胜利？
 Graffiti.WontLeave=我不会离开父辈生活的城市。
 
-Grafitti.NoCover=没有掩护。所有人。
+Grafitti.NoCover=没有掩护。纯爷们怼他。
 
 Graphics.WrongDriver=显卡驱动版本太旧或无法被检测。\n按"好"更新驱动程序，按"取消"继续。
 Graphics.WrongVersionD3D=Wrong version of DirectX redistributable.\nPress OK to update DirectX, or Cancel to continue.
@@ -2552,8 +2552,8 @@ Multiplayer.UnnamedSession=未命名的战局
 Netricsa.Analyzing=正在分析…
 
 Netricsa.ArachnoidAdult.00.General=神圣的战士，源于一个原始种族，这个种族从节肢动物演变而来。极端仇视的心态源自于他们的宗教信仰。
-Netricsa.ArachnoidAdult.01.Armor=外骨骼盖住了蝎形人身体的大部分面积。为了更好的保护自己，成年体用装甲钢板增强他们的身体。
-Netricsa.ArachnoidAdult.02.Pincer=在成年体增强的钳子内包含内置连环机枪。
+Netricsa.ArachnoidAdult.01.Armor=外骨骼盖住了蝎形人身体的大部分面积。为了更好的保护自己，大蝎形人用装甲钢板增强他们的身体。
+Netricsa.ArachnoidAdult.02.Pincer=大蝎形人的大钳子进行了改造，内置了链炮。
 Netricsa.ArachnoidAdult.03.Sting=他们的尾蜇是一个强有力的武器。任何时候都要远离它。
 Netricsa.ArachnoidAdult.Title=蝎形人，成年
 Netricsa.ArachnoidHatchling.00.General=由于与地球的战争仍在继续，曼德尔不得不拉越来越年轻的族人来补充新鲜力量。
@@ -2570,7 +2570,7 @@ Netricsa.AutoShotgun.Title=AS-24，又名"毁灭者"
 
 Netricsa.Axe.00.General=普通用于砍树的斧子. 用于破障或者作为消音武器.
 Netricsa.Axe.01.Handle=握紧这里.
-Netricsa.Axe.02.Head=用这里剁肉. 不要剁自己的肉.
+Netricsa.Axe.02.Head=用这里剁肉. 推荐不要剁到自己的肉.
 Netricsa.Axe.Title=斧头
 
 Netricsa.BiomechMajor.00.General=生化机械人在曼德尔的生物水槽中成长。它的基因组被重新编码以为它的生理生长提供机械零件。
@@ -2578,6 +2578,7 @@ Netricsa.BiomechMajor.01.Gun=单独制造的火箭发射器连接到提前设计
 Netricsa.BiomechMajor.02.Head=巨大的头主要用于储存电量。生化机械人的智力是有限的，它的主要功能就是寻找目标和摧毁目标。
 Netricsa.BiomechMajor.03.Legs=伺服电机控制其运动的声音非常响亮。这会提醒你生化机械人的存在。
 Netricsa.BiomechMajor.Title=生化机械人，成年
+
 Netricsa.BiomechMinor.00.General=生化机械人在曼德尔军队的生物水槽中成长。它的基因组被重新编码以为它的生理生长提供机械零件。
 Netricsa.BiomechMinor.01.Gun=单独制造的脉冲激光器连接到提前设计好的生物学侧插槽中，并直接接入它的神经系统。
 Netricsa.BiomechMinor.02.Head=巨大的头主要用于储存电量。生化机械人的智力是有限的，它主要功能就是寻找目标和摧毁目标。
@@ -3667,51 +3668,47 @@ Subtitle.01_CairoSquare_HQ_GimmeASitrep.02=我们收到米勒的求救，
 
 Subtitle.01_CairoSquare_HQ_GimmeASitrep.03=给我说下情况。
 
-Subtitle.01_CairoSquare_HQ_GimmeASitrep.04=直升机出故障了。
+Subtitle.01_CairoSquare_HQ_GimmeASitrep.04=直升机被炸成团了。
 
 Subtitle.01_CairoSquare_HQ_GimmeASitrep.05=我在几街区远的地方，
 
 
-Subtitle.01_CairoSquare_HQ_GimmeASitrep.06=现在去阿尔法接头点。
+Subtitle.01_CairoSquare_HQ_GimmeASitrep.06=现在去ALPHA接头点。
 
-Subtitle.01_CairoSquare_HQ_GimmeASitrep.07=斯通，和你说了多少次
+Subtitle.01_CairoSquare_HQ_GimmeASitrep.07=斯通，我都不知道跟你说多少次
 
-Subtitle.01_CairoSquare_HQ_GimmeASitrep.08=要系安全带？
+Subtitle.01_CairoSquare_HQ_GimmeASitrep.08=要系好安全带？
 
 Subtitle.01_CairoSquare_HQ_GimmeASitrep.09=少管我，罗德里格斯，你在哪里？
 
 Subtitle.01_CairoSquare_HQ_GimmeASitrep.10=我们在博物馆前！
 
 
-Subtitle.01_CairoSquare_HQ_GimmeASitrep.11=我们应该在哪的？
+Subtitle.01_CairoSquare_HQ_GimmeASitrep.11=本应该就在这里的。你懂吗？
 
-Subtitle.01_CairoSquare_HQ_GimmeASitrep.12=你到哪去了？
+Subtitle.01_CairoSquare_HQ_GimmeASitrep.12=你TM到哪去了？
 
-Subtitle.01_CairoSquare_HQ_GimmeASitrep.20=留在原地。
+Subtitle.01_CairoSquare_HQ_GimmeASitrep.20=原地呆好。
 
 Subtitle.01_CairoSquare_HQ_GimmeASitrep.21=我出发了。
 
 Subtitle.01_CairoSquare_HQ_GimmeASitrep.22=收到。
 
 Subtitle.01_CairoSquare_HQ_IveLostContact.01=奎因，我看到直升机了。
-Subtitle.01_CairoSquare_HQ_IveLostContact.02=A小队现在情况如何？
 
-Subtitle.01_CairoSquare_HQ_IveLostContact.02=阿尔法现在情况如何？
+Subtitle.01_CairoSquare_HQ_IveLostContact.02=ALPHA小队现在情况如何？
 
-Subtitle.01_CairoSquare_HQ_IveLostContact.03=失去联系了。
+Subtitle.01_CairoSquare_HQ_IveLostContact.03=我跟他们失去联系了。
 
+Subtitle.01_CairoSquare_HQ_IveLostContact.04=他们渣渣了。
 
-Subtitle.01_CairoSquare_HQ_IveLostContact.04=坠机了。
-
-Subtitle.01_CairoSquare_HQ_IveLostContact.05=妈的！有幸存者吗？
+Subtitle.01_CairoSquare_HQ_IveLostContact.05=神他妈的！还有活人吗？
 
 Subtitle.01_CairoSquare_HQ_IveLostContact.06=没有。这里太显眼了
-
 
 Subtitle.01_CairoSquare_HQ_IveLostContact.07=不易久留。
 
 Subtitle.01_CairoSquare_HQ_IveLostContact.08=我进去找找斯坦教授。
-
 
 Subtitle.01_CairoSquare_HQ_IveLostContact.09=收到。
 
@@ -3719,11 +3716,10 @@ Subtitle.01_CairoSquare_HQ_IveLostContact.10=注意你背后。
 
 Subtitle.01_CairoSquare_HQ_IveLostContact.11=那里可能都是敌人。
 
-Subtitle.01_CairoSquare_HQ_IveLostContact.12=他们死到临头了。
+Subtitle.01_CairoSquare_HQ_IveLostContact.12=那么那里就是一群死敌人了。
 
 
-Subtitle.01_CairoSquare_InChopperDialog.01=天啊!!!!!
-
+Subtitle.01_CairoSquare_InChopperDialog.01=我的神啊!!!!!
 
 Subtitle.01_CairoSquare_InChopperDialog.02=简直无法想象
 
@@ -3736,21 +3732,20 @@ Subtitle.01_CairoSquare_InChopperDialog.05=找个小妞玩玩。
 
 Subtitle.01_CairoSquare_InChopperDialog.06=斯通，希望你给我准备了个大礼。
 
-Subtitle.01_CairoSquare_InChopperDialog.07=好的，阿尔法，听清楚了！
+Subtitle.01_CairoSquare_InChopperDialog.07=好的，ALPHA，听清楚了！
 
-Subtitle.01_CairoSquare_InChopperDialog.08=布拉沃组正保护
+Subtitle.01_CairoSquare_InChopperDialog.08=BRAVO组正保护
 
 Subtitle.01_CairoSquare_InChopperDialog.09=开罗博物馆的一个科学家，但是
 
 Subtitle.01_CairoSquare_InChopperDialog.10=9:00左右，总部和他们失去了联系。
 
 
-Subtitle.01_CairoSquare_InChopperDialog.11=曼德尔想毁灭地球
+Subtitle.01_CairoSquare_InChopperDialog.11=曼德尔想烧了地球
 
-Subtitle.01_CairoSquare_InChopperDialog.12=我们却在这保护博物馆？
+Subtitle.01_CairoSquare_InChopperDialog.12=我们却在这当博物馆的保安？
 
 Subtitle.01_CairoSquare_InChopperDialog.13=这家伙认为他知道
-
 
 Subtitle.01_CairoSquare_InChopperDialog.14=如何启动时间机器。
 
@@ -3758,35 +3753,33 @@ Subtitle.01_CairoSquare_InChopperDialog.15=放屁。
 
 Subtitle.01_CairoSquare_InChopperDialog.16=研究又不能杀敌。
 
-Subtitle.01_CairoSquare_InChopperDialog.17=杀敌还是枪炮说了算。
+Subtitle.01_CairoSquare_InChopperDialog.17=大枪最管事儿。
 
-Subtitle.01_CairoSquare_InChopperDialog.18=管他什么时间机器，
+Subtitle.01_CairoSquare_InChopperDialog.18=算了，不管他什么时间机器，
 
 
-Subtitle.01_CairoSquare_InChopperDialog.19=布拉沃还孤身在那里。
+Subtitle.01_CairoSquare_InChopperDialog.19=BRAVO 还孤身在那里。
 
-Subtitle.01_CairoSquare_InChopperDialog.20=我们要进去
-
+Subtitle.01_CairoSquare_InChopperDialog.20=我们进去
 
 Subtitle.01_CairoSquare_InChopperDialog.21=救出B小队，
 
-Subtitle.01_CairoSquare_InChopperDialog.22=然后就结束任务
+Subtitle.01_CairoSquare_InChopperDialog.22=然后我们回家
 
+Subtitle.01_CairoSquare_InChopperDialog.23=如有事态开始屎夹屁股们了，
 
-Subtitle.01_CairoSquare_InChopperDialog.23=如有不测，
-
-Subtitle.01_CairoSquare_InChopperDialog.24=我们的首要任务是那个教授。
+Subtitle.01_CairoSquare_InChopperDialog.24=我们的首要任务是保那个教授。
 
 Subtitle.01_CairoSquare_InChopperDialog.25=听明白了吗？
 
-Subtitle.01_CairoSquare_InChopperDialog.26=他妈的明白了。
+Subtitle.01_CairoSquare_InChopperDialog.26=听他妈的明白了。
 
 
 Subtitle.01_CairoSquare_InChopperDialog.27=罗德里格斯！
 
 
 Subtitle.01_CairoSquare_InChopperDialog.30=我们正受到攻击！
-Subtitle.01_CairoSquare_InChopperDialog.31=隐蔽！
+Subtitle.01_CairoSquare_InChopperDialog.31=回避机动！
 
 Subtitle.01_CairoSquare_InChopperDialog.32=向右急转！抓稳！
 
@@ -3799,14 +3792,14 @@ Subtitle.01_CairoSquare_InChopperDialog_Pilots.02=转换到表面扫描模式。
 
 Subtitle.01_CairoSquare_InChopperDialog_Pilots.03=启动表面扫描，无活动。
 
-Subtitle.01_CairoSquare_InChopperDialog_Pilots.04=什么？今天没敌人？
+Subtitle.01_CairoSquare_InChopperDialog_Pilots.04=什么？今天没客人么？
 
-Subtitle.01_CairoSquare_InChopperDialog_Pilots.05=我们接敌。
+Subtitle.01_CairoSquare_InChopperDialog_Pilots.05=我们有情况。
 
 
 Subtitle.01_CairoSquare_InChopperDialog_Pilots.06=两点钟方向，正向我们靠近！
 
-Subtitle.01_CairoSquare_InChopperDialog_Pilots.07=别动，有敌人！
+Subtitle.01_CairoSquare_InChopperDialog_Pilots.07=坐稳了，我们有伴了！
 
 Subtitle.01_CairoSquare_Jones_RodriguezTookOneInTheChest.01=斯通，收到了吗，你在哪里？
 
@@ -3818,15 +3811,15 @@ Subtitle.01_CairoSquare_Jones_RodriguezTookOneInTheChest.04=我是琼斯！
 
 Subtitle.01_CairoSquare_Jones_RodriguezTookOneInTheChest.05=罗德里格斯…
 
-Subtitle.01_CairoSquare_Jones_RodriguezTookOneInTheChest.11=哦，上帝啊...
+Subtitle.01_CairoSquare_Jones_RodriguezTookOneInTheChest.11=哦，卧...
 
 
-Subtitle.01_CairoSquare_Jones_RodriguezTookOneInTheChest.12=哦，天啊！
+Subtitle.01_CairoSquare_Jones_RodriguezTookOneInTheChest.12=哦，该死！
 
 
 Subtitle.01_CairoSquare_Sam_GiveMeSomeSkulls.01=给我几块头盖骨和一些这个
 
-Subtitle.01_CairoSquare_Sam_GiveMeSomeSkulls.02=舞会时间！
+Subtitle.01_CairoSquare_Sam_GiveMeSomeSkulls.02=就能一起派对了！
 
 Subtitle.01_CairoSquare_Sam_LetsHopeTheyCanReadAMap.01=希望他们会看地图。
 
@@ -3838,21 +3831,19 @@ Subtitle.01_CairoSquare_Sam_MrSmithMrWesson.02=真高兴你们挺过来了！
 
 Subtitle.01_CairoSquare_Sam_Oh-Oh.01=哦，哦！
 
-Subtitle.01_CairoSquare_Sam_PutASockInIt.01=啊——，把臭袜子放进去。
+Subtitle.01_CairoSquare_Sam_PutASockInIt.01=啊——，拿臭袜子喂你。
 
-
-Subtitle.01_CairoSquare_Sam_Smashing.01=砸个稀烂。
+Subtitle.01_CairoSquare_Sam_Smashing.01=粉碎。
 
 Subtitle.01_CairoSquare_Sam_ThatOnesForJonesBones.01=这下是为琼斯的，烂骨头。
-
 
 Subtitle.01_CairoSquare_Sam_TimeToDoALittleResearch.01=该做点小实验了。
 
 Subtitle.01_CairoSquare_Sam_WhatAreYouLookingAt.01=看你大爷！？
 
-Subtitle.01_CairoSquare_Sam_YoullPutAnEyeOut.01=你该认真点
+Subtitle.01_CairoSquare_Sam_YoullPutAnEyeOut.01=你该更小心点的
 
-Subtitle.01_CairoSquare_Sam_YoullPutAnEyeOut.02=会把眼睛打坏的。
+Subtitle.01_CairoSquare_Sam_YoullPutAnEyeOut.02=你看走眼了。
 
 Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.01=教授，你该把
 
@@ -3860,21 +3851,18 @@ Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.02=那些数据给我们！
 
 Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.03=奎因，是我。
 
-Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.04=斯坦没挺过来。
-
+Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.04=斯坦死了。
 
 Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.05=妈的，找到他的电话了吗？
 
-Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.06=你是说你刚打的那个电话？
-
+Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.06=你是说你正在打的那个电话？
 
 Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.07=呃，好吧。
-
-
 
 Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.08=他应该还有那些还没被破译的
 
 Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.09=象形文字图片。
+
 Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.10=你现在要把那些
 
 Subtitle.02_CairoMuseum_Cutscene_DeadMansPhone.11=上传给我们。
@@ -3896,9 +3884,9 @@ Subtitle.02_CairoMuseum_HQ_RaisedStein.07=叫那小子别动。
 Subtitle.02_CairoMuseum_HQ_RaisedStein.08=爸爸正在路上。
 Subtitle.02_CairoMuseum_HQ_RaisedStein.09=收到。
 Subtitle.02_CairoMuseum_Sam_IveMissedTheParty.01=妈的，看样子我错过舞会了。
-Subtitle.02_CairoMuseum_Sam_LetThereBeLight.01=给点灯光。
-Subtitle.02_CairoMuseum_Sam_SpiderTune.01=嗯嗯嗯，嗯嗯嗯
-Subtitle.02_CairoMuseum_Sam_SpiderTune.02=嗯嗯嗯嗯，嗯嗯嗯
+Subtitle.02_CairoMuseum_Sam_LetThereBeLight.01=要有光。
+Subtitle.02_CairoMuseum_Sam_SpiderTune.01=哒哒哒，哒哒哒
+Subtitle.02_CairoMuseum_Sam_SpiderTune.02=哒哒哒哒，哒哒哒
 Subtitle.02_CairoMuseum_Sam_Sting.01=那一下肯定很疼。
 Subtitle.02_CairoMuseum_Stein_AttackedBySpiders.01=哦啊啊哦啊
 Subtitle.03_IbnTulun_Garret_BravoDeltaNiner.01=这里是BDN，
@@ -3930,13 +3918,13 @@ Subtitle.03_IbnTulun_HQ_ExtractionHasFailed.07=好的，保护好坠机地点，
 Subtitle.03_IbnTulun_HQ_ExtractionHasFailed.08=保护飞行员。
 Subtitle.03_IbnTulun_HQ_ExtractionHasFailed.09=我们这就到。
 Subtitle.03_IbnTulun_HQ_ExtractionHasFailed.10=收到，随时联系。
-Subtitle.03_IbnTulun_Sam_AlienBeef.01=头等牛肉。
-Subtitle.03_IbnTulun_Sam_AlottaBull.01=哇，大牛市。
-Subtitle.03_IbnTulun_Sam_ArentYouAdorable.01=你真太可爱了。
+Subtitle.03_IbnTulun_Sam_AlienBeef.01=头等外星牛肉。
+Subtitle.03_IbnTulun_Sam_AlottaBull.01=哇，刚才真是一大堆牛。
+Subtitle.03_IbnTulun_Sam_ArentYouAdorable.01=你不是挺可爱的嘛。
 Subtitle.04_Medina_HQ_BirdIsSecured.01=总部，总部
-Subtitle.04_Medina_HQ_BirdIsSecured.02=直升机已保护好。
+Subtitle.04_Medina_HQ_BirdIsSecured.02=我已解决了直升机。
 Subtitle.04_Medina_HQ_BirdIsSecured.03=我根本没打算问。
-Subtitle.04_Medina_HQ_BirdIsSecured.04=明智。
+Subtitle.04_Medina_HQ_BirdIsSecured.04=说得好。
 Subtitle.04_Medina_HQ_BirdIsSecured.07=我需要你快点弄清楚
 Subtitle.04_Medina_HQ_BirdIsSecured.08=我们从斯坦教授研究的
 Subtitle.04_Medina_HQ_BirdIsSecured.09=石碑上获得的东西是什么。
@@ -3964,10 +3952,9 @@ Subtitle.04_Medina_HQ_ChopperReckoned.04=不是。
 
 Subtitle.04_Medina_HQ_ChopperReckoned.05=妈的！
 
-Subtitle.04_Medina_HQ_ChopperReckoned.06=我们破译了
+Subtitle.04_Medina_HQ_ChopperReckoned.06=ok，好吧，我们破译了
 
 Subtitle.04_Medina_HQ_ChopperReckoned.07=斯坦教授的那些石碑，
-
 
 Subtitle.04_Medina_HQ_ChopperReckoned.08=看起来好像…
 
@@ -3979,16 +3966,15 @@ Subtitle.04_Medina_HQ_ChopperReckoned.11=萨姆？怎么了？
 
 Subtitle.04_Medina_HQ_StillWorkingOnSecuring.01=斯通你听到了吗？我们已经…
 
-Subtitle.04_Medina_HQ_StillWorkingOnSecuring.02=能等等么? 我还在工作。
+Subtitle.04_Medina_HQ_StillWorkingOnSecuring.02=能等等么? 我还得处理一下。
 
-
-Subtitle.04_Medina_HQ_StillWorkingOnSecuring.03=那架直升机！
+Subtitle.04_Medina_HQ_StillWorkingOnSecuring.03=那架直升机成精了！
 
 Subtitle.04_Medina_HQ_StillWorkingOnSecuring.04=但是我以为…
 
-Subtitle.04_Medina_HQ_StillWorkingOnSecuring.05=没时间说了！
+Subtitle.04_Medina_HQ_StillWorkingOnSecuring.05=没时间解释了！
 
-Subtitle.04_Medina_Sam_AcceptNoSubstitutes.01=火箭发射器，无法替代。
+Subtitle.04_Medina_Sam_AcceptNoSubstitutes.01=火箭发射器，无可替代。
 
 Subtitle.04_Medina_Sam_AlienHamburger.01=外星人汉堡，我的最爱！
 
@@ -4001,7 +3987,7 @@ Subtitle.04_Medina_Sam_RLHint_2.01=这种子弹根本打不掉它。
 
 Subtitle.04_Medina_Sam_RLHint_3.01=我他妈的现在就要火箭发射器。
 
-Subtitle.04_Medina_Sam_TakeFive.01=放松一下。
+Subtitle.04_Medina_Sam_TakeFive.01=休息五分钟。
 
 Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.01=奎因，收到了吗？
 
@@ -4013,7 +3999,7 @@ Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.03=刚刚遇到一个战舰。
 Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.04=把它吓跑了。
 
 
-Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.05=它在加速。
+Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.05=它在跃迁。
 
 Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.06=这我知道。
 
@@ -4028,7 +4014,7 @@ Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.11=地图上把金字塔称作
 
 Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.12=“隐藏坟墓的坟墓”
 
-Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.13=啊哈，不知所云，我就喜欢这种刺激。
+Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.13=啊哈，不知所云，我最爱的桥段。
 
 
 Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.14=可奇怪的是，
@@ -4062,7 +4048,7 @@ Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.26=它可是无价之宝。
 
 Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.27=我来买单就好了。
 
-Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.28=萨姆，这太可笑了，你不能…
+Subtitle.05_CairoTown_HQ_ChamberBelowPyramid.28=萨姆，这太夸张了，你不能…
 
 Subtitle.05_CairoTown_HQ_JesusChristSam.01=上帝啊，萨姆！
 
@@ -4074,9 +4060,9 @@ Subtitle.05_CairoTown_Sam_AllYourBase.01=你的领地全部属于我们，不要
 
 Subtitle.05_CairoTown_Sam_HoneyImHome.01=亲爱的！我回来了！
 
-Subtitle.05_CairoTown_Sam_NothingSaysHoneyImHome.01=没人象炸药那样喊“亲爱的，我回来了”
+Subtitle.05_CairoTown_Sam_NothingSaysHoneyImHome.01=没人像一捆炸药爆炸那样喊“亲爱的，我回来了”
 
-Subtitle.05_CairoTown_Sam_ShameToLetGoodDynamite.01=浪费好的炸药是一种耻辱。
+Subtitle.05_CairoTown_Sam_ShameToLetGoodDynamite.01=搁着好的炸药不用对炸药来讲是一种耻辱。
 
 Subtitle.05_CairoTown_Sam_SomeoneSteppedOnYourAnthill.01=哦可怜的蚂蚁宝贝儿，有人抄了你的蚁窝么？
 
@@ -4085,7 +4071,7 @@ Subtitle.05_CairoTown_Sam_WasYourDaddyPilot.01=嗨，宝贝！你爸爸是飞行
 
 Subtitle.05_CairoTown_Sam_WasYourDaddyPilot.02=太他妈的丑了！！
 
-Subtitle.05_CairoTown_Sam_WhenDovesCry.01=那是什么王国？这难道是
+Subtitle.05_CairoTown_Sam_WhenDovesCry.01=那是什么？王子殿下？这难道是
 
 Subtitle.05_CairoTown_Sam_WhenDovesCry.02=听起来像是鸽子的叫声?
 
@@ -4093,7 +4079,7 @@ Subtitle.05_CairoTown_Sam_WhenDovesCry.02=听起来像是鸽子的叫声?
 Subtitle.05_CairoTown_Sam_WhenDovesCry.03=好像是。
 
 
-Subtitle.06_Pyramids_Alien_Tickets.01=(一张票，谢谢)
+Subtitle.06_Pyramids_Alien_Tickets.01=(买一张票，谢谢)
 
 Subtitle.06_Pyramids_Bobmshell_FancyMeetingYou.01=好吧，我进来了，该我们了
 
@@ -4167,7 +4153,7 @@ Subtitle.06_Pyramids_HQ_IveReachedTheSphinx.03=还没有。
 
 Subtitle.06_Pyramids_HQ_IveReachedTheSphinx.04=我们认为快找到了。
 
-Subtitle.06_Pyramids_HQ_IveReachedTheSphinx.05=快了对我来说没有任何意义。
+Subtitle.06_Pyramids_HQ_IveReachedTheSphinx.05=“快找到了”对我来说没有任何意义。
 
 
 Subtitle.06_Pyramids_HQ_IveReachedTheSphinx.06=看样子要按B计划行动了。
@@ -4177,7 +4163,7 @@ Subtitle.06_Pyramids_HQ_IveReachedTheSphinx.07=萨姆，看在上帝的份上，
 
 Subtitle.06_Pyramids_HQ_IveReachedTheSphinx.08=现存最古老的艺术品…
 
-Subtitle.06_Pyramids_HQ_IveReachedTheSphinx.09=好的，我会小心的。
+Subtitle.06_Pyramids_HQ_IveReachedTheSphinx.09=好的，我会小心的
 
 Subtitle.06_Pyramids_HQ_IveReachedTheSphinx.10=把它炸开的。
 
@@ -4232,26 +4218,26 @@ Subtitle.06_Pyramids_Sam_10SticksOfDynamite.01=10支炸药?
 Subtitle.06_Pyramids_Sam_10SticksOfDynamite.02=400美元。
 Subtitle.06_Pyramids_Sam_10SticksOfDynamite.03=炸毁人类
 Subtitle.06_Pyramids_Sam_10SticksOfDynamite.04=古老的杰作？无价之宝!
-Subtitle.06_Pyramids_Sam_AManGottaAccessorize.01=有时候男人要增补装备。
-Subtitle.06_Pyramids_Sam_AwfullyQuiet.01=这里太静了。
+Subtitle.06_Pyramids_Sam_AManGottaAccessorize.01=有时候男人也是需要一件装饰品的。
+Subtitle.06_Pyramids_Sam_AwfullyQuiet.01=这里静的发毛。
 
 
 Subtitle.06_Pyramids_Sam_AwfullyQuiet.02=没人能杀得了我。
-Subtitle.06_Pyramids_Sam_AwfullyQuiet.03=毛骨悚然。
-Subtitle.06_Pyramids_Sam_CuteAndPractical.01=看那个！
-Subtitle.06_Pyramids_Sam_CuteAndPractical.02=太可爱了，太实用了！
-Subtitle.06_Pyramids_Sam_CuteAndPracticalAndDeadly.01=可爱又实用。
-Subtitle.06_Pyramids_Sam_CuteAndPracticalAndDeadly.02=而且致命！
+Subtitle.06_Pyramids_Sam_AwfullyQuiet.03=噫。
+Subtitle.06_Pyramids_Sam_CuteAndPractical.01=看看那个！
+Subtitle.06_Pyramids_Sam_CuteAndPractical.02=可爱，而且实用！
+Subtitle.06_Pyramids_Sam_CuteAndPracticalAndDeadly.01=又可爱又实用。
+Subtitle.06_Pyramids_Sam_CuteAndPracticalAndDeadly.02=又致命！
 Subtitle.06_Pyramids_Sam_ScreenHisCalls.01=一个男人要知道何时筛选来电。
 
 
-Subtitle.06_Pyramids_Sam_TicketsToHell.01=集合！我可以提供
-Subtitle.06_Pyramids_Sam_TicketsToHell.02=通往地狱的免费单程票！
+Subtitle.06_Pyramids_Sam_TicketsToHell.01=排好队！免费的
+Subtitle.06_Pyramids_Sam_TicketsToHell.02=地狱单程票！人人有份！
 
 
 Subtitle.06_Pyramids_Sam_WontBudge.01=哼……绝不反悔！
 
-Subtitle.06_Pyramids_Sam_Wow.01=哇！
+Subtitle.06_Pyramids_Sam_Wow.01=喔啊！
 
 Subtitle.07_Karnak1_HQ_HorusIsOnline.01=嘿，奎因，荷鲁斯已上线并且在
 
@@ -4287,23 +4273,23 @@ Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.01=真的不需要帮忙吗？
 Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.02=不了，我可以的。
 Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.03=但是…
 Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.04=嘿，等我清理完这里，
-Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.05=我们去喝瓶威士忌，
-Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.06=搞几个火箭发射器，
+Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.05=就我和你，一瓶威士忌，
+Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.06=再来几个火箭发射器，
 Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.07=好好热闹一下。
 Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.08=得了，你知道的，萨姆
-Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.09=我更喜欢转轮机枪。
-Subtitle.07_Karnak1_Sam_CleanupOnIsleNine.01=Cleanup on, isle nine.
+Subtitle.07_Karnak1_Hellfire_YouDontNeedAHand.09=我更喜欢加特林机枪。
+Subtitle.07_Karnak1_Sam_CleanupOnIsleNine.01=清理开始, 岛屿九号.
 
-Subtitle.07_Karnak1_Sam_DeadSpaceMonkey.01=就像妈妈经常说的，唯一的好猴子
-Subtitle.07_Karnak1_Sam_DeadSpaceMonkey.02=就是是死猴子。
+Subtitle.07_Karnak1_Sam_DeadSpaceMonkey.01=就像妈妈经常说的，唯一的好太空好猴子
+Subtitle.07_Karnak1_Sam_DeadSpaceMonkey.02=就是是太空死猴子。
 
-Subtitle.07_Karnak1_Sam_IdBeMadToo.01=如果看不见我的破烂我也会发疯的。
-Subtitle.07_Karnak1_Sam_SpaceMonkey.01=靠！外星猴子！
-Subtitle.07_Karnak1_Sam_WhaddaHell.01=该死的，那是什么？
-Subtitle.07_Karnak1_Sam_YouGotAThickSkin.01=你有厚皮？
+Subtitle.07_Karnak1_Sam_IdBeMadToo.01=如果看不到自己很菜，我也会像你一样发飙的。
+Subtitle.07_Karnak1_Sam_SpaceMonkey.01=靠！太空猴子！
+Subtitle.07_Karnak1_Sam_WhaddaHell.01=那他妈是什么？
+Subtitle.07_Karnak1_Sam_YouGotAThickSkin.01=你皮糙肉厚？
 Subtitle.07_Karnak1_Sam_YouGotAThickSkin.02=那你喜不喜欢这个？
-Subtitle.08_Karnak2_Sam_AcuteLeadPoisoning.01=我的症状？急性铅中毒！
-Subtitle.08_Karnak2_Sam_ILikeAPowerfullWoman.01=...我喜欢强壮的女人。
+Subtitle.08_Karnak2_Sam_AcuteLeadPoisoning.01=我的诊断？急性铅中毒！
+Subtitle.08_Karnak2_Sam_ILikeAPowerfullWoman.01=emmmmmm...我喜欢强壮的女人。
 
 Subtitle.08_Karnak2_Sam_MaybeNotThatPowerful.01=可能不需要这么强壮。
 Subtitle.08_Karnak2_Sam_YouCanBeAsCrazy.01=就像我经常说的，
@@ -4352,11 +4338,11 @@ Subtitle.09_Luxor_HQ_WarshipTearingUp.02=你现在不能着陆。
 Subtitle.09_Luxor_HQ_WarshipTearingUp.03=交给我吧。
 Subtitle.09_Luxor_HQ_WarshipTearingUp.04=萨姆，那家伙太大了，你没法…
 Subtitle.09_Luxor_HQ_WarshipTearingUp.05=没事，我们是老相识了。
-Subtitle.09_Luxor_Sam_JesusHarold.01=上帝，现在怎么办？
-Subtitle.09_Luxor_Sam_NothingSaysStoppingPower.01=千万别停电。
+Subtitle.09_Luxor_Sam_JesusHarold.01=我的始祖上他妈皇神啊，现在怎么办？
+Subtitle.09_Luxor_Sam_NothingSaysStoppingPower.01=没有东西能够拦住大炮的能量。
 Subtitle.09_Luxor_Sam_TellMeHowMyPlanetTastes.01=你他妈的，尝尝老子的厉害吧。
 Subtitle.09_Luxor_Sam_WakeyWakey.01=醒醒，王八蛋。
-Subtitle.09_Luxor_Wilson_ThisAintHellfire.01=地狱火导弹，这些人
+Subtitle.09_Luxor_Wilson_ThisAintHellfire.01=地狱火，我觉得这些人
 Subtitle.09_Luxor_Wilson_ThisAintHellfire.02=有点难搞
 Subtitle.09_Luxor_Wilson_ThisAintHellfire.03=我在前面，帮你清理着陆区。
 Subtitle.09_Luxor_Wilson_ThisAintHellfire.04=我不是地狱火，不过
@@ -4381,9 +4367,9 @@ Subtitle.10_Dunes_HQ_RadioDown.6=太他妈的棒了！
 
 Subtitle.10_Dunes_HQ_RadioDown.7=他们应该有一阵子不会烦我了。
 
-Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.01=天啊，威尔森，我觉得
+Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.01=天啊，威尔森，我觉得我在那杀了
 
-Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.02=地球上一半的敌人都被我灭了。
+Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.02=宇宙上一半的敌人。
 
 Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.03=很高兴你要回家了。
 
@@ -4395,10 +4381,10 @@ Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.07=我很高兴带你回基地。
 Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.08=这里可没什么飞行勤务。
 Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.09=随你怎么说。
 Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.10=这算不上什么，比起…
-Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.11=生化人！
-Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.12=是啊！他妈的生化人！还有寄生怪、破烂男…
-Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.13=不，生化人！
-Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.14=这他妈…
+Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.11=生化机甲！
+Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.12=是啊！他妈的生化机甲！还有寄生怪、破烂男…
+Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.13=不，是生化机甲！！
+Subtitle.10_Dunes_Wilson_IUsedToHateMilkruns.14=什么…
 Subtitle.11_Ramesseum_HQ_YouAreAlive.01=总部，听到我说的话了吗?
 
 Subtitle.11_Ramesseum_HQ_YouAreAlive.03=山姆？是你吗？
@@ -4407,36 +4393,35 @@ Subtitle.11_Ramesseum_HQ_YouAreAlive.05=地狱之火？发生什么了？
 Subtitle.11_Ramesseum_HQ_YouAreAlive.06=我们被偷袭了。不知道他们从哪里出来的。
 
 Subtitle.11_Ramesseum_HQ_YouAreAlive.07=我们坚持不了多久。
-Subtitle.11_Ramesseum_HQ_YouAreAlive.08=他妈的！他们是从墙里边
+Subtitle.11_Ramesseum_HQ_YouAreAlive.08=去你！妈的！他们是从墙里边
 Subtitle.11_Ramesseum_HQ_YouAreAlive.09=出来的！
 Subtitle.11_Ramesseum_HQ_YouAreAlive.10=奎因死了，查理部队全军覆没。
 Subtitle.11_Ramesseum_HQ_YouAreAlive.11=我们坚持不住了。
 Subtitle.11_Ramesseum_HQ_YouAreAlive.13=找个安全地点躲藏起来。
-Subtitle.11_Ramesseum_HQ_YouAreAlive.14=妈的！地狱之火！地狱之火！
+Subtitle.11_Ramesseum_HQ_YouAreAlive.14=妈的！地狱火！地狱火！
 
 Subtitle.11_Ramesseum_HQ_YouAreAlive.16=(结束了，萨姆，你们输了。)
 
 Subtitle.11_Ramesseum_HQ_YouAreAlive.17=结束？
 
-Subtitle.11_Ramesseum_HQ_YouAreAlive.18=直到我把你们这群王八蛋都消灭了
+Subtitle.11_Ramesseum_HQ_YouAreAlive.18=直到我让你们这群王八蛋的每一个人
 
-Subtitle.11_Ramesseum_HQ_YouAreAlive.19=宰了装到裹尸袋里才算结束！
-
-
-Subtitle.11_Ramesseum_HQ_YouAreAlive.21=(太迟了，塔厄姆要来陪你玩玩了。)
+Subtitle.11_Ramesseum_HQ_YouAreAlive.19=跪舔过我的蛋蛋后才算结束！
 
 
-Subtitle.11_Ramesseum_HQ_YouAreAlive.22=嗯? 他要对付我？
+Subtitle.11_Ramesseum_HQ_YouAreAlive.21=(太迟了，塔厄姆要来月亮你。)
+
+
+Subtitle.11_Ramesseum_HQ_YouAreAlive.22=嗯? 他要月亮我？
 
 
 Subtitle.11_Ramesseum_HQ_YouAreAlive.23=我会射穿他的屁股，把它挂在我家墙上。
 
 Subtitle.11_Ramesseum_HQ_YouAreAlive.24=公元前3000年见啦，我要去时间机器那儿了。
 
-
 Subtitle.11_Ramesseum_HQ_YouAreAlive.25=只要有幸存者，我们就会找到你。
 
-Subtitle.11_Ramesseum_Sam_CarExitingSequence.01=底特律钢铁，宝贝！哈利路亚！
+Subtitle.11_Ramesseum_Sam_CarExitingSequence.01=底特律钢铁，宝贝！哈利他妈的路亚！
 
 
 Subtitle.11_Ramesseum_Sam_GlugMotherfucker.01=咕噜，咕噜，妈的。
@@ -4453,7 +4438,7 @@ Subtitle.11_Ramesseum_Sam_ThatShouldDoIt.01=应该够了。
 Subtitle.11_Ramesseum_Sam_WheelsThatShouldComeInHandy.01=轮胎！这个应该有用。
 
 
-Subtitle.12_Hatshepsut_Sam_CallingMental.01=你们这些变态的外星蟑螂，这才是我们地球人的风格。
+Subtitle.12_Hatshepsut_Sam_CallingMental.01=这才是我们地球人的规矩。你们这些变态外星大蟑螂。
 
 Subtitle.12_Hatshepsut_Sam_CallingMental.02=(曼德尔住所，我是朱迪曼德尔。)
 
@@ -4464,27 +4449,27 @@ Subtitle.12_Hatshepsut_Sam_CallingMental.04=(我爸爸去消灭其他星球去�
 
 Subtitle.12_Hatshepsut_Sam_CallingMental.05=你要给他留言吗？)
 
-Subtitle.12_Hatshepsut_Sam_CallingMental.06=告他萨姆要去找他了。
+Subtitle.12_Hatshepsut_Sam_CallingMental.06=告他萨姆要去找他玩了。
 
 
-Subtitle.12_Hatshepsut_Sam_CallingMental.07=我的意思是来杀他。
+Subtitle.12_Hatshepsut_Sam_CallingMental.07=玩的意思是就是来杀他。
 
 Subtitle.12_Hatshepsut_Sam_CallingMental.08=(此话当真？)
 
-Subtitle.12_Hatshepsut_Sam_CallingMental.09=当然了，我是认真的。
+Subtitle.12_Hatshepsut_Sam_CallingMental.09=当然了，是的。其实我是认。。。
 
 Subtitle.12_Hatshepsut_Sam_CallingMental.10=(那你最好快点
 
-Subtitle.12_Hatshepsut_Sam_CallingMental.11=他马上就要消灭你们星球了)
+Subtitle.12_Hatshepsut_Sam_CallingMental.11=他马上就要月亮你们星球了)
 
-Subtitle.12_Hatshepsut_Sam_CallingMental.12=消灭？
+Subtitle.12_Hatshepsut_Sam_CallingMental.12=月亮我们的？哈？
 
 Subtitle.12_Hatshepsut_Sam_CallingMental.13=我现在就要搞到那台时间机器！
 
 Subtitle.12_Hatshepsut_Sam_CallingMental.14=公元前3000年见了，曼德尔，你个混蛋…
 
 Subtitle.12_Hatshepsut_Sam_IAintYourLunch.01=我可以是很多东西，但是老兄，我可不是你的午餐。
-Subtitle.12_Hatshepsut_Sam_OutOfGas.01=Come on! Don't do this to me!
+
 Subtitle.12_Hatshepsut_Sam_OutOfGas.01=别这样！别这么对我！
 
 
@@ -4621,9 +4606,9 @@ Subtitle.General.EasyLadies.2=足够的精力陪大家玩！
 Subtitle.General.EatDust=吃土吧！
 
 
-Subtitle.General.EnoughLeadForAllOfYou.1=来吧，我有足够的领先优势
+Subtitle.General.EnoughLeadForAllOfYou.1=来吧，我有足够的的子弹
 
-Subtitle.General.EnoughLeadForAllOfYou.2=领先优势，嗨嗨！
+Subtitle.General.EnoughLeadForAllOfYou.2=让你们吃个够，嗨嗨！
 
 Subtitle.General.FeedingLeadHungryAliens=你不长记性？
 
@@ -4638,7 +4623,7 @@ Subtitle.General.HolyCrap=哇，靠！
 Subtitle.General.HowDoYouLikeMeNow=你现在喜欢我了吗？
 
 
-Subtitle.General.IGottaPainKiller.1=你很痛苦，但...
+Subtitle.General.IGottaPainKiller.1=你很疼，但...
 
 
 Subtitle.General.IGottaPainKiller.2=我有止痛药了！
