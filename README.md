@@ -3,10 +3,10 @@
 
 参与人员
 
-翻译：斗盔Gorgonzoler
+翻译：斗盔Gorgonzoler，akamortal
 
 字体：law_4x
 
-校对：
+校对：飞行的克喵
 
-测试：CaptBarbecue
+测试：CaptBarbecue，飞行的克喵
